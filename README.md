@@ -2,9 +2,10 @@
 60% Keyboard
 
 
+## layout<br/>
+![layout](https://github.com/cosmosalad/Gear60/assets/45204109/42bbedae-a8ee-4b03-a299-7eabaf489846)
 
-
-
+<br/><br/><br/><br/>
 
 
 ## Reference<br/>
