@@ -31,7 +31,7 @@ split_hhkb (fdm print)
 hhkb - B type (sla print)
 
 
-<br/><br/><br/>
+<br/><br/>
 
 
 
@@ -40,7 +40,7 @@ hhkb - B type (sla print)
 There is also a [keyboard plate](https://github.com/cosmosalad/Gear60/tree/main/plate).<br/>
 [Keyboard case](https://github.com/cosmosalad/Gear60/tree/main/case) corresponding to this layout.<br/>
 
-<br/><br/><br/>
+<br/><br/>
 
 
 ## PCB<br/>
@@ -52,7 +52,7 @@ There is a change from the initial pcb design.<br/>
 This pcb was made by jlcpcb. ([list of pcb parts](https://github.com/cosmosalad/Gear60/blob/main/pcb/hotswap/jlcpcb/part%20list.png))<br/><br/>
 This pcb prepared the [vial](https://github.com/cosmosalad/Gear60/tree/main/vial) as firmware
 
-<br/><br/><br/>
+<br/><br/>
 
 
 ## Reference<br/>
