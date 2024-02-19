@@ -6,7 +6,7 @@ After connecting to the keyboard, add the [uf2 file](https://github.com/cosmosal
 
 Open the [vial](https://vial.rocks/).<br/>
 ![vial test](https://github.com/cosmosalad/Gear60/assets/45204109/4722aa86-5b4a-4169-bb47-ba00da6a0fd9)<br/>
-<br/><br/>
+Key map<br/><br/>
 
 ![test1](https://github.com/cosmosalad/Gear60/assets/45204109/2f3d3d05-738e-431b-8cb2-a5680b9eafca)<br/>
 You can select the layout.<br/><br/>
