@@ -1,6 +1,9 @@
+[프로젝트 과정](https://blog.naver.com/cosmosalad/223262540878)<br/><br/>
+
+
 # Gear60<br/>
 60% Keyboard<br/>
-[만드는 과정](https://blog.naver.com/cosmosalad/223262540878)
+
 
 <br/><br/><br/>
 
