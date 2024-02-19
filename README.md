@@ -8,8 +8,8 @@
 
 ## Layout<br/>
 ![layout](https://github.com/cosmosalad/Gear60/assets/45204109/42bbedae-a8ee-4b03-a299-7eabaf489846)<br/>
-[Keyboard case](https://github.com/cosmosalad/Gear60/tree/main/case) corresponding to this layout. <br/>
-There is also a [keyboard plate](https://github.com/cosmosalad/Gear60/tree/main/plate).
+There is also a [keyboard plate](https://github.com/cosmosalad/Gear60/tree/main/plate).<br/>
+[Keyboard case](https://github.com/cosmosalad/Gear60/tree/main/case) corresponding to this layout.<br/>
 
 <br/><br/><br/>
 
