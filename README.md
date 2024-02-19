@@ -7,7 +7,8 @@
 
 
 ## Layout<br/>
-![layout](https://github.com/cosmosalad/Gear60/assets/45204109/42bbedae-a8ee-4b03-a299-7eabaf489846)
+![layout](https://github.com/cosmosalad/Gear60/assets/45204109/42bbedae-a8ee-4b03-a299-7eabaf489846)<br/>
+[Keyboard case](https://github.com/cosmosalad/Gear60/tree/main/case) corresponding to this layout.
 
 <br/><br/><br/><br/>
 
