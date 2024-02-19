@@ -8,8 +8,8 @@
 
 
 <p align="center">
-  <img src="img/split_hhkb1.jpg" width="500"/>
-  <img src="img/split_hhkb2.jpg" width="500"/>
+  <img src="img/split_hhkb1.jpg" style="width: 49%;"/>
+  <img src="img/split_hhkb2.jpg" style="width: 49%;"/>
 </p>
 <p align="center">
   <img src="img/split_hhkb3.jpg"/>
@@ -22,8 +22,8 @@ split_hhkb (fdm print)
 <br/><br/>
 
 <p align="center">
-  <img src="img/hhkb1.jpg" width="500"/>
-  <img src="img/hhkb2.jpg" width="500"/>
+  <img src="img/hhkb1.jpg" style="width: 49%;"/>
+  <img src="img/hhkb2.jpg" style="width: 49%;"/>
 </p>
 <p align="center">
   <img src="img/hhkb3.jpg"/>
