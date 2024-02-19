@@ -2,9 +2,34 @@
 
 
 # Gear60<br/>
-60% Keyboard<br/>
+60% Multi-Layout Keyboard
+
+<br/><br/>
 
 
+<p align="center">
+  <img src="img/split_hhkb1.jpg" width="500"/>
+  <img src="img/split_hhkb2.jpg" width="500"/>
+</p>
+<p align="center">
+  <img src="img/split_hhkb3.jpg"/>
+</p>
+
+split_hhkb (fdm print)
+
+
+
+<br/><br/>
+
+<p align="center">
+  <img src="img/hhkb1.jpg" width="500"/>
+  <img src="img/hhkb2.jpg" width="500"/>
+</p>
+<p align="center">
+  <img src="img/hhkb3.jpg"/>
+</p>
+
+hhkb - B type (sla print)
 
 
 <br/><br/><br/>
