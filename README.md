@@ -1,4 +1,4 @@
-[프로젝트 과정](https://blog.naver.com/cosmosalad/223262540878)<br/><br/>
+[프로젝트 과정(kr)](https://blog.naver.com/cosmosalad/223262540878)<br/><br/>
 
 
 # Gear60<br/>
