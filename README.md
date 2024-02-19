@@ -2,7 +2,7 @@
 60% Keyboard<br/>
 [만드는 과정](https://blog.naver.com/cosmosalad/223262540878)
 
-<br/><br/><br/><br/>
+<br/><br/><br/>
 
 
 
@@ -11,7 +11,7 @@
 [Keyboard case](https://github.com/cosmosalad/Gear60/tree/main/case) corresponding to this layout.<br/>
 There is also a [keyboard plate](https://github.com/cosmosalad/Gear60/tree/main/plate).
 
-<br/><br/><br/><br/>
+<br/><br/><br/>
 
 
 ## PCB<br/>
@@ -21,7 +21,7 @@ There is also a [keyboard plate](https://github.com/cosmosalad/Gear60/tree/main/
 ![sample](https://github.com/cosmosalad/Gear60/assets/45204109/f2a96a30-09d3-4a4a-b490-d96202257811)<br/>
 There is a change from the initial pcb design.
 
-<br/><br/><br/><br/>
+<br/><br/><br/>
 
 
 ## Reference<br/>
