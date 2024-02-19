@@ -1,5 +1,9 @@
-# Gear60
-60% Keyboard
+# Gear60<br/>
+60% Keyboard<br/>
+[Here's the process of making it.](https://blog.naver.com/cosmosalad/223262540878)
+
+<br/><br/><br/><br/>
+
 
 
 ## Layout<br/>
