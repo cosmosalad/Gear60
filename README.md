@@ -2,8 +2,18 @@
 60% Keyboard
 
 
-## layout<br/>
+## Layout<br/>
 ![layout](https://github.com/cosmosalad/Gear60/assets/45204109/42bbedae-a8ee-4b03-a299-7eabaf489846)
+
+<br/><br/><br/><br/>
+
+
+## PCB<br/>
+![pcb_top1](https://github.com/cosmosalad/Gear60/assets/45204109/ababf6b0-ff0b-4079-822c-5c73df947780)<br/>
+![pcb_bottom1](https://github.com/cosmosalad/Gear60/assets/45204109/c930ecc1-0982-4478-b921-21c78720b0be)<br/><br/><br/>
+
+![sample](https://github.com/cosmosalad/Gear60/assets/45204109/f2a96a30-09d3-4a4a-b490-d96202257811)<br/>
+There is a change from the initial pcb design.
 
 <br/><br/><br/><br/>
 
