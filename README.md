@@ -19,8 +19,8 @@ There is also a [keyboard plate](https://github.com/cosmosalad/Gear60/tree/main/
 ![pcb_bottom1](https://github.com/cosmosalad/Gear60/assets/45204109/c930ecc1-0982-4478-b921-21c78720b0be)<br/><br/><br/>
 
 ![sample](https://github.com/cosmosalad/Gear60/assets/45204109/f2a96a30-09d3-4a4a-b490-d96202257811)<br/>
-There is a change from the initial pcb design.
-
+There is a change from the initial pcb design.<br/>
+This pcb was made by jlcpcb. ([list of pcb parts](https://github.com/cosmosalad/Gear60/blob/main/pcb/hotswap/jlcpcb/part%20list.png))
 <br/><br/><br/>
 
 
