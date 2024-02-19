@@ -2,9 +2,9 @@
 
 
 # Gear60<br/>
-60% Multi-Layout Keyboard
-
-<br/><br/>
+60% Multi-Layout Keyboard<br/>
+It is a keyboard based on rp2040.<br/>
+<br/>
 
 
 <p align="center">
