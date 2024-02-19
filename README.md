@@ -1,6 +1,6 @@
 # Gear60<br/>
 60% Keyboard<br/>
-[Here's the process of making it.](https://blog.naver.com/cosmosalad/223262540878)
+[만드는 과정](https://blog.naver.com/cosmosalad/223262540878)
 
 <br/><br/><br/><br/>
 
