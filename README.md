@@ -3,6 +3,12 @@
 
 # Gear60<br/>
 60% Keyboard<br/>
+![KakaoTalk_20231129_232654680_06](https://github.com/cosmosalad/Gear60/assets/45204109/dcc47090-8a36-4206-a9d1-d3c3ebd79c6c)
+![KakaoTalk_20231129_232654680_03](https://github.com/cosmosalad/Gear60/assets/45204109/ff79766c-c37e-4d91-8a19-22f3d83d7642)
+![KakaoTalk_20231129_232654680_07](https://github.com/cosmosalad/Gear60/assets/45204109/a81ab1bb-9e41-4be3-8229-beef92dc12cb)
+![KakaoTalk_20231223_170259987_05](https://github.com/cosmosalad/Gear60/assets/45204109/e746a82a-0858-455d-b100-0fc4d3573f1e)
+![KakaoTalk_20231223_170259987_04](https://github.com/cosmosalad/Gear60/assets/45204109/c263ec54-b4d3-4aec-b543-c4a749b51825)
+![KakaoTalk_20231223_170259987_02](https://github.com/cosmosalad/Gear60/assets/45204109/00b2766b-6958-4614-a9c7-c947984d37f7)
 
 
 <br/><br/><br/>
