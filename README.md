@@ -52,7 +52,14 @@ There is a change from the initial pcb design.<br/>
 This pcb was made by jlcpcb. ([list of pcb parts](https://github.com/cosmosalad/Gear60/blob/main/pcb/hotswap/jlcpcb/part%20list.png))<br/><br/>
 This pcb prepared the [vial](https://github.com/cosmosalad/Gear60/tree/main/vial) as firmware
 
-<br/><br/>
+<br/>
+
+<p align="center">
+  <a href="https://youtube.com/embed/gBcXavTLRE8">
+    <img src="http://img.youtube.com/vi/gBcXavTLRE8/0.jpg" alt="gear60">
+  </a>
+</p>
+<br/>
 
 
 ## Reference<br/>
