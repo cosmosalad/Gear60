@@ -1756,6 +1756,9 @@
   (junction (at 332.74 63.5) (diameter 0) (color 0 0 0 0)
     (uuid 05e93d2a-1f07-4dbe-a0ba-093e9e500fc3)
   )
+  (junction (at 424.18 137.16) (diameter 0) (color 0 0 0 0)
+    (uuid 06e542b7-f5c9-4a5a-acce-81972bf14080)
+  )
   (junction (at 347.98 142.24) (diameter 0) (color 0 0 0 0)
     (uuid 08d08cc2-cc19-4640-9fe9-c63fb82af2f6)
   )
@@ -1773,6 +1776,9 @@
   )
   (junction (at 387.35 52.07) (diameter 0) (color 0 0 0 0)
     (uuid 17ce5f15-2e16-46e5-b995-b105b17ab11d)
+  )
+  (junction (at 238.76 142.24) (diameter 0) (color 0 0 0 0)
+    (uuid 1903db7f-d7d5-4f21-9670-f589bb252814)
   )
   (junction (at 269.24 116.84) (diameter 0) (color 0 0 0 0)
     (uuid 19d262f8-8225-4558-810d-9c2b304b64ff)
@@ -1798,6 +1804,9 @@
   (junction (at 392.43 86.36) (diameter 0) (color 0 0 0 0)
     (uuid 209cbf70-a57f-4683-a1fb-942cc1f1a699)
   )
+  (junction (at 429.26 142.24) (diameter 0) (color 0 0 0 0)
+    (uuid 20badf5d-386d-461e-be7f-32987da1c613)
+  )
   (junction (at 107.95 142.24) (diameter 0) (color 0 0 0 0)
     (uuid 24aed71f-de91-4332-b487-b75cfad51e77)
   )
@@ -1809,6 +1818,9 @@
   )
   (junction (at 392.43 63.5) (diameter 0) (color 0 0 0 0)
     (uuid 27ae6e2d-07a6-4d56-9930-114f7eaa780d)
+  )
+  (junction (at 233.68 137.16) (diameter 0) (color 0 0 0 0)
+    (uuid 28265c9e-7ded-4aa9-907c-a111c8c54cd3)
   )
   (junction (at 172.72 199.39) (diameter 0) (color 0 0 0 0)
     (uuid 28a259eb-a18d-435b-b16e-565427ccf2fb)
@@ -1890,6 +1902,9 @@
   )
   (junction (at 156.21 199.39) (diameter 0) (color 0 0 0 0)
     (uuid 553cfd73-0553-40a7-94d7-3619a9cbec23)
+  )
+  (junction (at 387.35 137.16) (diameter 0) (color 0 0 0 0)
+    (uuid 56b23cde-9e15-46c8-83bf-8577ffb7e835)
   )
   (junction (at 240.03 52.07) (diameter 0) (color 0 0 0 0)
     (uuid 56d6d620-247d-49df-b879-18eb24c348da)
@@ -1984,6 +1999,9 @@
   (junction (at 313.69 52.07) (diameter 0) (color 0 0 0 0)
     (uuid 7f031615-a8c0-430e-8940-e862d2243e3c)
   )
+  (junction (at 392.43 142.24) (diameter 0) (color 0 0 0 0)
+    (uuid 7f7e9036-8bba-4513-aae3-399d75815e9d)
+  )
   (junction (at 168.91 153.67) (diameter 0) (color 0 0 0 0)
     (uuid 7fee0ff3-1857-4b10-8bca-7c28e0cd94e1)
   )
@@ -2077,8 +2095,17 @@
   (junction (at 289.56 63.5) (diameter 0) (color 0 0 0 0)
     (uuid b06341e4-9ac7-43e1-a7ac-8361bf0045ab)
   )
+  (junction (at 452.12 100.33) (diameter 0) (color 0 0 0 0)
+    (uuid b25bfe82-5da2-4d9a-9e4a-ef3a3cc7f5ca)
+  )
+  (junction (at 281.94 142.24) (diameter 0) (color 0 0 0 0)
+    (uuid b354f653-dda9-4ab4-b0fb-04ad93a6b1e9)
+  )
   (junction (at 240.03 121.92) (diameter 0) (color 0 0 0 0)
     (uuid b4ca8652-2e2e-4330-9441-7245e1c94dfd)
+  )
+  (junction (at 452.12 80.01) (diameter 0) (color 0 0 0 0)
+    (uuid b6044900-6550-4f8a-898a-cb536eb4da00)
   )
   (junction (at 245.11 121.92) (diameter 0) (color 0 0 0 0)
     (uuid b92c2d30-e09a-41ea-8f25-4ff70761ba98)
@@ -2100,6 +2127,9 @@
   )
   (junction (at 392.43 128.27) (diameter 0) (color 0 0 0 0)
     (uuid be7af7ac-3d15-4b39-85e5-4c92dcf55b54)
+  )
+  (junction (at 276.86 137.16) (diameter 0) (color 0 0 0 0)
+    (uuid c0b81975-8280-422b-8c0a-476844cb1ebd)
   )
   (junction (at 274.32 106.68) (diameter 0) (color 0 0 0 0)
     (uuid c0d2e508-cb89-4529-ada5-942298c68fe0)
@@ -2246,9 +2276,9 @@
     (uuid ffea13e2-a83b-4869-83aa-abc277906aaf)
   )
 
-  (no_connect (at 83.82 52.07) (uuid 0195cfe8-f20c-4328-a5f7-db0023c98f88))
   (no_connect (at 60.96 194.31) (uuid 23d9f599-e61d-48d4-8af9-3cae0a5f9215))
   (no_connect (at 83.82 34.29) (uuid 28d257ca-24e4-41bd-a2e8-4529d73a49d0))
+  (no_connect (at 83.82 62.23) (uuid 353ee932-adda-4b6e-bae4-379dd75248e9))
   (no_connect (at 60.96 199.39) (uuid 3879c252-8517-4d19-96b2-7bbe6df2128d))
   (no_connect (at 83.82 100.33) (uuid 450dd081-1cad-4de1-80e4-514d19d98415))
   (no_connect (at 83.82 46.99) (uuid 880bd774-4ee6-4ee6-96ae-6a71f8da0f5c))
@@ -2261,6 +2291,10 @@
   (no_connect (at 83.82 105.41) (uuid ec42ef14-0ad1-4e92-b892-48f01e833183))
   (no_connect (at 151.13 85.09) (uuid fdb00752-bdb9-4393-a027-5014bf0004c2))
 
+  (wire (pts (xy 281.94 142.24) (xy 287.02 142.24))
+    (stroke (width 0) (type default))
+    (uuid 0038cbca-adba-452e-b7df-0b40b962bd7d)
+  )
   (wire (pts (xy 387.35 95.25) (xy 387.35 116.84))
     (stroke (width 0) (type default))
     (uuid 010550fa-8af2-4a96-ac39-6f74d0fc44d5)
@@ -2433,10 +2467,6 @@
     (stroke (width 0) (type default))
     (uuid 1e6a242e-cf51-44c6-8762-88ff36e18fe3)
   )
-  (wire (pts (xy 447.04 74.93) (xy 447.04 95.25))
-    (stroke (width 0) (type default))
-    (uuid 1e875d00-9d40-44d5-a497-38cf9d8ec627)
-  )
   (wire (pts (xy 313.69 74.93) (xy 313.69 95.25))
     (stroke (width 0) (type default))
     (uuid 1f5c335a-9371-4fdf-909d-0d1f1f1f73bd)
@@ -2477,6 +2507,10 @@
     (stroke (width 0) (type default))
     (uuid 266db490-2b0a-441e-93c9-a6a9c6365252)
   )
+  (wire (pts (xy 445.77 142.24) (xy 452.12 142.24))
+    (stroke (width 0) (type default))
+    (uuid 275e01b0-17aa-4570-9f28-b5ee816f65da)
+  )
   (wire (pts (xy 298.45 41.91) (xy 298.45 52.07))
     (stroke (width 0) (type default))
     (uuid 27cce300-5038-429e-a431-337bb3475713)
@@ -2497,6 +2531,10 @@
     (stroke (width 0) (type default))
     (uuid 2bd7f212-3e2e-426b-ac62-679e812dbd2e)
   )
+  (wire (pts (xy 452.12 100.33) (xy 458.47 100.33))
+    (stroke (width 0) (type default))
+    (uuid 2c85ea2d-227f-4a75-81a2-2208be617283)
+  )
   (wire (pts (xy 172.72 203.2) (xy 172.72 201.93))
     (stroke (width 0) (type default))
     (uuid 2ca12a10-6e65-42db-bf60-d47765db9793)
@@ -2512,6 +2550,10 @@
   (wire (pts (xy 342.9 74.93) (xy 342.9 95.25))
     (stroke (width 0) (type default))
     (uuid 2ee088dc-7d3f-400e-8473-1e361f0e84ba)
+  )
+  (wire (pts (xy 453.39 95.25) (xy 447.04 95.25))
+    (stroke (width 0) (type default))
+    (uuid 2f05ea6e-c1ce-4a1e-96e5-a3339aeed77b)
   )
   (wire (pts (xy 407.67 80.01) (xy 407.67 81.28))
     (stroke (width 0) (type default))
@@ -2544,10 +2586,6 @@
   (wire (pts (xy 284.48 95.25) (xy 284.48 116.84))
     (stroke (width 0) (type default))
     (uuid 31a4f83e-28fa-4050-bdb1-0ba8461636d3)
-  )
-  (wire (pts (xy 276.86 137.16) (xy 269.24 137.16))
-    (stroke (width 0) (type default))
-    (uuid 32b969de-f87e-4925-a02d-761ef2faaf21)
   )
   (wire (pts (xy 233.68 148.59) (xy 245.11 148.59))
     (stroke (width 0) (type default))
@@ -2665,6 +2703,10 @@
     (stroke (width 0) (type default))
     (uuid 43b50262-d54e-4e9f-9cc0-2e2765278af8)
   )
+  (wire (pts (xy 226.06 137.16) (xy 233.68 137.16))
+    (stroke (width 0) (type default))
+    (uuid 43b62874-313f-43f4-834e-0dcf206f2b04)
+  )
   (wire (pts (xy 181.61 146.05) (xy 181.61 144.78))
     (stroke (width 0) (type default))
     (uuid 43d932e3-3a52-4f64-bcc4-6771771eb6e1)
@@ -2745,6 +2787,10 @@
     (stroke (width 0) (type default))
     (uuid 517c3774-7ab8-4076-aa93-119b54bfecc7)
   )
+  (wire (pts (xy 231.14 142.24) (xy 238.76 142.24))
+    (stroke (width 0) (type default))
+    (uuid 522a638a-db99-4148-9239-db1b94e62aaa)
+  )
   (wire (pts (xy 60.96 22.86) (xy 63.5 22.86))
     (stroke (width 0) (type default))
     (uuid 525afb6a-9c1f-4fbb-9e46-3e1698f0ea50)
@@ -2756,6 +2802,10 @@
   (wire (pts (xy 152.4 72.39) (xy 151.13 72.39))
     (stroke (width 0) (type default))
     (uuid 53bc423e-6cd1-4ada-84b6-247f52d94618)
+  )
+  (wire (pts (xy 269.24 137.16) (xy 276.86 137.16))
+    (stroke (width 0) (type default))
+    (uuid 5478b662-b347-4d76-8246-b90ecd81b525)
   )
   (wire (pts (xy 407.67 121.92) (xy 407.67 123.19))
     (stroke (width 0) (type default))
@@ -2941,6 +2991,14 @@
     (stroke (width 0) (type default))
     (uuid 6d04550f-f059-4595-96b9-20bc712d5fbb)
   )
+  (wire (pts (xy 429.26 142.24) (xy 435.61 142.24))
+    (stroke (width 0) (type default))
+    (uuid 6daee442-3484-48b7-8890-af696d306321)
+  )
+  (wire (pts (xy 424.18 137.16) (xy 430.53 137.16))
+    (stroke (width 0) (type default))
+    (uuid 6e2bad42-e4a1-4290-ac22-78d26ab8816c)
+  )
   (wire (pts (xy 392.43 148.59) (xy 407.67 148.59))
     (stroke (width 0) (type default))
     (uuid 6eb361c0-3a84-4f0b-8721-070cc3c02040)
@@ -2952,6 +3010,10 @@
   (wire (pts (xy 260.35 63.5) (xy 274.32 63.5))
     (stroke (width 0) (type default))
     (uuid 702dcfcb-3137-4394-8e9c-0160dd990492)
+  )
+  (wire (pts (xy 248.92 137.16) (xy 255.27 137.16))
+    (stroke (width 0) (type default))
+    (uuid 7127383f-3d2a-4cbf-a2c3-a8994c6ae8b1)
   )
   (wire (pts (xy 303.53 100.33) (xy 303.53 101.6))
     (stroke (width 0) (type default))
@@ -3141,6 +3203,10 @@
     (stroke (width 0) (type default))
     (uuid 8f9ae554-6495-409b-965d-44137de687d6)
   )
+  (wire (pts (xy 387.35 142.24) (xy 392.43 142.24))
+    (stroke (width 0) (type default))
+    (uuid 90037656-210e-4795-ae6f-ca5bfb74ab7d)
+  )
   (wire (pts (xy 156.21 199.39) (xy 157.48 199.39))
     (stroke (width 0) (type default))
     (uuid 902ff605-f6e7-43fc-b7e2-ee12a7faa05a)
@@ -3153,6 +3219,10 @@
     (stroke (width 0) (type default))
     (uuid 9118840b-020d-4b23-ae65-a114cabfb600)
   )
+  (wire (pts (xy 382.27 137.16) (xy 387.35 137.16))
+    (stroke (width 0) (type default))
+    (uuid 91c42020-0af7-4ec8-bf50-47f68f8a5ccb)
+  )
   (wire (pts (xy 168.91 154.94) (xy 168.91 153.67))
     (stroke (width 0) (type default))
     (uuid 924ed89a-60d4-4517-a8cb-3bc7f0252c24)
@@ -3160,6 +3230,10 @@
   (wire (pts (xy 452.12 80.01) (xy 452.12 81.28))
     (stroke (width 0) (type default))
     (uuid 926235ec-03f4-43fd-b621-a0a7ba12d0bc)
+  )
+  (wire (pts (xy 447.04 74.93) (xy 453.39 74.93))
+    (stroke (width 0) (type default))
+    (uuid 92c01526-070a-4c8c-b89c-048c9a463c21)
   )
   (wire (pts (xy 447.04 52.07) (xy 447.04 43.18))
     (stroke (width 0) (type default))
@@ -3213,6 +3287,10 @@
     (stroke (width 0) (type default))
     (uuid 980c3501-fccc-4bf2-8e58-0f26da2e6d61)
   )
+  (wire (pts (xy 447.04 74.93) (xy 447.04 95.25))
+    (stroke (width 0) (type default))
+    (uuid 98dd5608-133e-4441-bccb-0a76189d8d36)
+  )
   (wire (pts (xy 402.59 74.93) (xy 402.59 95.25))
     (stroke (width 0) (type default))
     (uuid 99348b8b-7dda-49d3-9c19-d94f69ff3542)
@@ -3260,6 +3338,10 @@
   (wire (pts (xy 177.8 194.31) (xy 177.8 201.93))
     (stroke (width 0) (type default))
     (uuid a10b64d0-f575-4e17-974a-57c9fd11866a)
+  )
+  (wire (pts (xy 276.86 137.16) (xy 281.94 137.16))
+    (stroke (width 0) (type default))
+    (uuid a111da77-ceea-4a5e-90f6-a91df681c1e0)
   )
   (wire (pts (xy 274.32 128.27) (xy 289.56 128.27))
     (stroke (width 0) (type default))
@@ -3385,6 +3467,10 @@
     (stroke (width 0) (type default))
     (uuid b66b8315-91d8-4408-8da7-e7d07d814288)
   )
+  (wire (pts (xy 440.69 137.16) (xy 447.04 137.16))
+    (stroke (width 0) (type default))
+    (uuid b6fb753c-cd77-48e2-a54c-8884606d29be)
+  )
   (wire (pts (xy 177.8 201.93) (xy 172.72 201.93))
     (stroke (width 0) (type default))
     (uuid b8409db2-da2f-454f-926f-7c5c60037125)
@@ -3425,9 +3511,17 @@
     (stroke (width 0) (type default))
     (uuid bd84cd3b-b389-4e3d-9380-3a0447a07d0c)
   )
+  (wire (pts (xy 336.55 137.16) (xy 342.9 137.16))
+    (stroke (width 0) (type default))
+    (uuid bdffb4ec-06cd-4ce1-970a-4d6eed8d9c61)
+  )
   (wire (pts (xy 433.07 43.18) (xy 433.07 52.07))
     (stroke (width 0) (type default))
     (uuid be73d130-1f66-41a9-a57b-d9af93d4e5b6)
+  )
+  (wire (pts (xy 341.63 142.24) (xy 347.98 142.24))
+    (stroke (width 0) (type default))
+    (uuid bf6f2a77-68b0-4031-a747-500855a21e2d)
   )
   (wire (pts (xy 392.43 80.01) (xy 392.43 81.28))
     (stroke (width 0) (type default))
@@ -3713,6 +3807,10 @@
     (stroke (width 0) (type default))
     (uuid f01f41c9-a9bb-418d-abc8-1e64bffd4a68)
   )
+  (wire (pts (xy 452.12 80.01) (xy 458.47 80.01))
+    (stroke (width 0) (type default))
+    (uuid f0fc8fd0-421c-4b78-b003-020744bcde3a)
+  )
   (wire (pts (xy 332.74 57.15) (xy 332.74 58.42))
     (stroke (width 0) (type default))
     (uuid f14a5ed3-b286-4a89-9f4c-6b82bfec77d5)
@@ -3825,6 +3923,10 @@
     (stroke (width 0) (type default))
     (uuid fe3a1526-3bbe-4b0e-a14d-ada6c4006349)
   )
+  (wire (pts (xy 254 142.24) (xy 260.35 142.24))
+    (stroke (width 0) (type default))
+    (uuid fe677e71-b48b-457b-9a3d-0b95e4f51b5f)
+  )
   (wire (pts (xy 373.38 95.25) (xy 373.38 116.84))
     (stroke (width 0) (type default))
     (uuid ff17d90f-415a-4fb0-80cd-0b2dcac230f6)
@@ -3884,6 +3986,13 @@
     (uuid 06935beb-3620-463c-9612-fe61075376d1)
     (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 18.6048 64.77 0)
       (effects (font (size 1.27 1.27)) (justify right) hide)
+    )
+  )
+  (global_label "ROW3" (shape input) (at 83.82 44.45 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid 09a95a20-287e-40dc-9aa5-cb0f928e9b26)
+    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 92.0666 44.45 0)
+      (effects (font (size 1.27 1.27)) (justify left) hide)
     )
   )
   (global_label "COL8" (shape input) (at 356.87 41.91 90) (fields_autoplaced)
@@ -3977,6 +4086,13 @@
       (effects (font (size 1.27 1.27)) (justify right) hide)
     )
   )
+  (global_label "COL13" (shape input) (at 83.82 41.91 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid 55b3f85a-3745-46a5-854c-b45df89873d1)
+    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 92.8528 41.91 0)
+      (effects (font (size 1.27 1.27)) (justify left) hide)
+    )
+  )
   (global_label "QSPI_SS" (shape input) (at 49.53 254 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid 57e33674-0ea5-40c6-b198-2f5758e12e15)
@@ -4016,13 +4132,6 @@
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid 654768c5-201a-4536-9891-784a3bde82b0)
     (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 202.1333 199.39 0)
-      (effects (font (size 1.27 1.27)) (justify left) hide)
-    )
-  )
-  (global_label "COL8" (shape input) (at 83.82 54.61 0) (fields_autoplaced)
-    (effects (font (size 1.27 1.27)) (justify left))
-    (uuid 699097f2-d3b7-41a9-9972-5cb3870f490f)
-    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 91.6433 54.61 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
   )
@@ -4103,13 +4212,6 @@
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
   )
-  (global_label "COL13" (shape input) (at 83.82 49.53 0) (fields_autoplaced)
-    (effects (font (size 1.27 1.27)) (justify left))
-    (uuid 898c8b16-3f0d-4f69-910c-962d4aaed6a6)
-    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 92.8528 49.53 0)
-      (effects (font (size 1.27 1.27)) (justify left) hide)
-    )
-  )
   (global_label "COL6" (shape input) (at 327.66 41.91 90) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid 8c4204e2-6d98-4241-9d18-18d876620a35)
@@ -4166,6 +4268,27 @@
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
   )
+  (global_label "ROW4" (shape input) (at 83.82 49.53 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid 9b155671-bea3-4660-9355-6cc2abdd056d)
+    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 92.0666 49.53 0)
+      (effects (font (size 1.27 1.27)) (justify left) hide)
+    )
+  )
+  (global_label "COL10" (shape input) (at 83.82 57.15 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid 9c89cc4e-7b27-48ff-9a94-85d484d7435b)
+    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 92.8528 57.15 0)
+      (effects (font (size 1.27 1.27)) (justify left) hide)
+    )
+  )
+  (global_label "COL8" (shape input) (at 83.82 52.07 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid 9d105d48-cf4d-4385-abe6-4c691486c539)
+    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 91.6433 52.07 0)
+      (effects (font (size 1.27 1.27)) (justify left) hide)
+    )
+  )
   (global_label "COL10" (shape input) (at 388.62 43.18 90) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid 9d4c56ce-9136-4457-a2a4-221b06df7413)
@@ -4184,13 +4307,6 @@
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid 9f46f092-652e-495d-8122-0d125f129684)
     (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 91.6433 80.01 0)
-      (effects (font (size 1.27 1.27)) (justify left) hide)
-    )
-  )
-  (global_label "COL10" (shape input) (at 83.82 59.69 0) (fields_autoplaced)
-    (effects (font (size 1.27 1.27)) (justify left))
-    (uuid a60eb0a4-1b88-45f6-8601-dcaffeb31def)
-    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 92.8528 59.69 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
   )
@@ -4264,6 +4380,13 @@
       (effects (font (size 1.27 1.27)) (justify right) hide)
     )
   )
+  (global_label "COL9" (shape input) (at 83.82 54.61 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid cbca22e4-0b60-4047-a2ae-7b72352347b6)
+    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 91.6433 54.61 0)
+      (effects (font (size 1.27 1.27)) (justify left) hide)
+    )
+  )
   (global_label "QSPI_SD2" (shape input) (at 104.14 199.39 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right))
     (uuid cd3205da-2b9c-4b68-a1c0-d10a3a74a848)
@@ -4282,13 +4405,6 @@
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid cfae8f0d-ba4f-4a5a-99d2-cdd0e91baf3e)
     (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 283.21 34.0867 90)
-      (effects (font (size 1.27 1.27)) (justify left) hide)
-    )
-  )
-  (global_label "COL9" (shape input) (at 83.82 57.15 0) (fields_autoplaced)
-    (effects (font (size 1.27 1.27)) (justify left))
-    (uuid d199ffc9-8593-4885-9511-7c5737707e1e)
-    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 91.6433 57.15 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
   )
@@ -4320,32 +4436,11 @@
       (effects (font (size 1.27 1.27)) (justify right) hide)
     )
   )
-  (global_label "ROW3" (shape input) (at 83.82 41.91 0) (fields_autoplaced)
-    (effects (font (size 1.27 1.27)) (justify left))
-    (uuid e43ba9ec-2f20-4048-8bd7-1aa57c5f22c2)
-    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 92.0666 41.91 0)
-      (effects (font (size 1.27 1.27)) (justify left) hide)
-    )
-  )
-  (global_label "COL7" (shape input) (at 83.82 62.23 0) (fields_autoplaced)
-    (effects (font (size 1.27 1.27)) (justify left))
-    (uuid e711c1c4-b65d-444a-b847-090387fe8782)
-    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 91.6433 62.23 0)
-      (effects (font (size 1.27 1.27)) (justify left) hide)
-    )
-  )
   (global_label "ROW4" (shape input) (at 233.68 148.59 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right))
     (uuid eb28ac15-6e2a-45b8-bfe6-2baa47f99adf)
     (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 225.4334 148.59 0)
       (effects (font (size 1.27 1.27)) (justify right) hide)
-    )
-  )
-  (global_label "ROW4" (shape input) (at 83.82 44.45 0) (fields_autoplaced)
-    (effects (font (size 1.27 1.27)) (justify left))
-    (uuid f323f71b-5e91-456e-a86f-a5626f66e9fa)
-    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 92.0666 44.45 0)
-      (effects (font (size 1.27 1.27)) (justify left) hide)
     )
   )
   (global_label "COL5" (shape input) (at 83.82 72.39 0) (fields_autoplaced)
@@ -4369,6 +4464,13 @@
       (effects (font (size 1.27 1.27)) (justify right) hide)
     )
   )
+  (global_label "COL7" (shape input) (at 83.82 59.69 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid ff50f661-d2dd-4121-9d41-7be36e3758a9)
+    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 91.6433 59.69 0)
+      (effects (font (size 1.27 1.27)) (justify left) hide)
+    )
+  )
 
   (symbol (lib_id "PCM_marbastlib-mx:MX_stab") (at 434.34 97.79 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
@@ -4386,7 +4488,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (instances
-      (project "gear60"
+      (project "gear60_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "S5") (unit 1)
         )
@@ -4412,9 +4514,35 @@
     (pin "1" (uuid 94fa1391-2dfc-437a-9fb6-111a12b7e9d6))
     (pin "2" (uuid a9200686-339f-4ba4-aacd-ae65167c2691))
     (instances
-      (project "gear60"
+      (project "gear60_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "MX47") (unit 1)
+        )
+      )
+    )
+  )
+
+  (symbol (lib_id "PCM_marbastlib-mx:MX_SW_HS") (at 384.81 139.7 0) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no)
+    (uuid 052f5e04-60c2-45a6-a103-d245ad772ab8)
+    (property "Reference" "MX84" (at 384.81 132.08 0)
+      (effects (font (size 1.27 1.27)))
+    )
+    (property "Value" "MX_SW_solder" (at 392.43 134.62 0)
+      (effects (font (size 1.27 1.27)))
+    )
+    (property "Footprint" "PCM_marbastlib-mx:SW_MX_1.25u" (at 384.81 139.7 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "~" (at 384.81 139.7 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid c77e14d2-e419-45cd-8648-5fee74bb1a13))
+    (pin "2" (uuid 52766963-78dc-42b0-adb3-821812018e20))
+    (instances
+      (project "gear60_solder"
+        (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
+          (reference "MX84") (unit 1)
         )
       )
     )
@@ -4437,7 +4565,7 @@
     )
     (pin "1" (uuid 637f7148-1de8-4de7-9e21-3656c9689841))
     (instances
-      (project "gear60"
+      (project "gear60_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "#PWR017") (unit 1)
         )
@@ -4463,7 +4591,7 @@
     (pin "1" (uuid e67b822a-5d13-484a-84d6-4b404d8328c9))
     (pin "2" (uuid 107c7e90-3e36-4d01-a54e-963c53ae20c8))
     (instances
-      (project "gear60"
+      (project "gear60_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "C3") (unit 1)
         )
@@ -4489,7 +4617,7 @@
     (pin "1" (uuid f9368900-d47d-4862-876a-572e20cd8787))
     (pin "2" (uuid 2e2be775-dafc-46ba-b1ec-90a4e41ca44d))
     (instances
-      (project "gear60"
+      (project "gear60_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "C12") (unit 1)
         )
@@ -4526,7 +4654,7 @@
     (pin "1" (uuid 668ba680-92eb-4b76-afa2-4e6ead282892))
     (pin "2" (uuid ac5d97e1-6c39-424c-b3dc-1d68bb375fb9))
     (instances
-      (project "gear60"
+      (project "gear60_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "D19") (unit 1)
         )
@@ -4558,7 +4686,7 @@
     (pin "1" (uuid 29ed47f8-be8a-4ff5-bde8-907f17657a9c))
     (pin "2" (uuid 2803c399-906a-48a3-9b6e-35616968f9e5))
     (instances
-      (project "gear60"
+      (project "gear60_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "D17") (unit 1)
         )
@@ -4584,7 +4712,7 @@
     (pin "1" (uuid 591b7395-bfe3-4fce-befa-0eb4ba4cb6f9))
     (pin "2" (uuid c009c8d5-2855-4ade-91c7-016f36f13b4a))
     (instances
-      (project "gear60"
+      (project "gear60_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "MX4") (unit 1)
         )
@@ -4616,7 +4744,7 @@
     (pin "1" (uuid 0a7fe5a0-1cdc-483e-9ab9-bffb4e3c7467))
     (pin "2" (uuid cd930f35-ce80-4b3c-a19d-3786e263ad32))
     (instances
-      (project "gear60"
+      (project "gear60_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "D44") (unit 1)
         )
@@ -4642,7 +4770,7 @@
     (pin "1" (uuid 4f129ca3-1d17-4f0d-82db-ba8fa6203c9e))
     (pin "2" (uuid 029be9f6-dc8e-408b-9a92-7470ee113978))
     (instances
-      (project "gear60"
+      (project "gear60_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "MX28") (unit 1)
         )
@@ -4668,7 +4796,7 @@
     (pin "1" (uuid cb059ab6-c4c3-429d-a195-dd04cd285d8a))
     (pin "2" (uuid d9003fae-bd9a-4c5d-9ac8-b0d824ba0f1c))
     (instances
-      (project "gear60"
+      (project "gear60_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "MX13") (unit 1)
         )
@@ -4694,7 +4822,7 @@
     (pin "1" (uuid e41a73d6-76f5-4cf9-a6d5-95335c8591bf))
     (pin "2" (uuid 20f0379e-fd34-400b-acd3-5b48362e5bab))
     (instances
-      (project "gear60"
+      (project "gear60_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "MX65") (unit 1)
         )
@@ -4720,7 +4848,7 @@
     (pin "1" (uuid 11ede7e7-5a90-45e9-a318-13ade13db9ff))
     (pin "2" (uuid baff7892-12fe-499c-8b74-c1356cfd0a7d))
     (instances
-      (project "gear60"
+      (project "gear60_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "MX52") (unit 1)
         )
@@ -4746,7 +4874,7 @@
     (pin "1" (uuid 5bd89eff-bd50-4b4b-b8fa-104b8dfb9c38))
     (pin "2" (uuid 34df0346-e12f-493c-953e-cc1e70a218f6))
     (instances
-      (project "gear60"
+      (project "gear60_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "MX71") (unit 1)
         )
@@ -4772,7 +4900,7 @@
     (pin "1" (uuid f55c76f6-0511-4588-82c0-b1b82b601ffc))
     (pin "2" (uuid e2195f63-703b-4b7f-b0bc-80f76d7e8f9c))
     (instances
-      (project "gear60"
+      (project "gear60_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "MX66") (unit 1)
         )
@@ -4798,7 +4926,7 @@
     (pin "1" (uuid 9a3a39bb-4e16-43ab-b340-24094d70a432))
     (pin "2" (uuid c083e6b4-4091-4188-992f-c96fa7700490))
     (instances
-      (project "gear60"
+      (project "gear60_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "C13") (unit 1)
         )
@@ -4824,7 +4952,7 @@
     (pin "1" (uuid 97f6960b-dec3-4a94-9068-10032bf6e9ed))
     (pin "2" (uuid 01da4b76-1f7a-47aa-af44-5b28cad1b845))
     (instances
-      (project "gear60"
+      (project "gear60_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "C9") (unit 1)
         )
@@ -4850,7 +4978,7 @@
     (pin "1" (uuid 6a71a654-3907-42e4-8e73-bc22df1058b2))
     (pin "2" (uuid 4a77773a-ddf8-40d6-8cc5-14ae53ad144d))
     (instances
-      (project "gear60"
+      (project "gear60_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "MX70") (unit 1)
         )
@@ -4876,7 +5004,7 @@
     (pin "1" (uuid a02c170c-63ca-446a-9e2d-6032b59e81ad))
     (pin "2" (uuid 08c4e165-4e97-4196-b2ab-8e5186153758))
     (instances
-      (project "gear60"
+      (project "gear60_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "MX27") (unit 1)
         )
@@ -4902,7 +5030,7 @@
     (pin "1" (uuid 5f1df9ec-c106-46a6-ae7d-912d3a083a86))
     (pin "2" (uuid 68491a5b-2ed1-4d6f-a648-70d3301cf0d8))
     (instances
-      (project "gear60"
+      (project "gear60_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "MX38") (unit 1)
         )
@@ -4928,7 +5056,7 @@
     (pin "1" (uuid 9c77fcb7-2453-4263-85d2-088bb576b25e))
     (pin "2" (uuid 4e73583b-a1e4-4f08-9c32-660bc1977b36))
     (instances
-      (project "gear60"
+      (project "gear60_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "MX25") (unit 1)
         )
@@ -4960,7 +5088,7 @@
     (pin "1" (uuid 3b57b628-581a-430c-a258-1ef11703eb52))
     (pin "2" (uuid 32a8458f-0750-4b4a-bb13-589d757e5c70))
     (instances
-      (project "gear60"
+      (project "gear60_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "D65") (unit 1)
         )
@@ -4992,7 +5120,7 @@
     (pin "1" (uuid 425df222-5d44-48e0-8bb5-491e88d76983))
     (pin "2" (uuid 1ae6ca81-77b0-4c3e-be0d-983006977d0c))
     (instances
-      (project "gear60"
+      (project "gear60_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "D25") (unit 1)
         )
@@ -5024,7 +5152,7 @@
     (pin "1" (uuid 565ee78e-d7d0-4ec9-b0aa-000b8759852a))
     (pin "2" (uuid 217f3f21-8b21-4d36-9a09-93d44fcde4ff))
     (instances
-      (project "gear60"
+      (project "gear60_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "D3") (unit 1)
         )
@@ -5050,7 +5178,7 @@
     (pin "1" (uuid e854d173-ba29-4cd0-915c-3a3731385ca9))
     (pin "2" (uuid bd389429-4997-4fb2-8ce0-c38e3de95d7a))
     (instances
-      (project "gear60"
+      (project "gear60_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "MX40") (unit 1)
         )
@@ -5076,7 +5204,7 @@
     (pin "1" (uuid 25799622-14b1-4502-a745-0231829b81c3))
     (pin "2" (uuid 38315a5b-b9be-429c-9367-db705c11642c))
     (instances
-      (project "gear60"
+      (project "gear60_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "MX32") (unit 1)
         )
@@ -5108,7 +5236,7 @@
     (pin "7" (uuid d1b43eee-a3af-4eaf-9a98-5a1d8fdfd6b4))
     (pin "8" (uuid 632f2726-046a-4eb7-8168-a1431cbe24e6))
     (instances
-      (project "gear60"
+      (project "gear60_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "U3") (unit 1)
         )
@@ -5133,7 +5261,7 @@
     )
     (pin "1" (uuid 951cde7d-d9d2-4be9-9fb4-8e486fce3510))
     (instances
-      (project "gear60"
+      (project "gear60_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "#PWR07") (unit 1)
         )
@@ -5159,7 +5287,7 @@
     (pin "1" (uuid e8ca67f0-baa4-49da-be38-2ee1d290c9b0))
     (pin "2" (uuid 78a33359-bfd5-4747-b4f3-89a03040fe92))
     (instances
-      (project "gear60"
+      (project "gear60_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "C4") (unit 1)
         )
@@ -5191,7 +5319,7 @@
     (pin "1" (uuid 730ec80e-a8fb-493d-9f73-182d59e030b0))
     (pin "2" (uuid 19b26a23-8836-4b6f-a049-45f4d3a276f2))
     (instances
-      (project "gear60"
+      (project "gear60_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "D7") (unit 1)
         )
@@ -5223,9 +5351,35 @@
     (pin "1" (uuid 7e684912-2bb3-4f49-903f-9ae9206fcfc9))
     (pin "2" (uuid bb1bfbf4-4fdd-4e88-a0a9-0f84f711d46e))
     (instances
-      (project "gear60"
+      (project "gear60_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "D49") (unit 1)
+        )
+      )
+    )
+  )
+
+  (symbol (lib_id "PCM_marbastlib-mx:MX_SW_HS") (at 284.48 139.7 180) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no)
+    (uuid 2a22479f-625d-47f8-a0d4-b58e9b6b8322)
+    (property "Reference" "MX80" (at 292.1 132.08 0)
+      (effects (font (size 1.27 1.27)))
+    )
+    (property "Value" "MX_SW_solder" (at 295.91 134.62 0)
+      (effects (font (size 1.27 1.27)))
+    )
+    (property "Footprint" "PCM_marbastlib-mx:SW_MX_1.25u" (at 284.48 139.7 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "~" (at 284.48 139.7 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 9a3f1396-3362-4b71-bfcb-d10d46cf05ca))
+    (pin "2" (uuid d7610ddb-b308-454c-b311-22f68e8ae50b))
+    (instances
+      (project "gear60_solder"
+        (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
+          (reference "MX80") (unit 1)
         )
       )
     )
@@ -5249,7 +5403,7 @@
     (pin "1" (uuid 15103893-6284-49ae-9056-f7aaf1119eb3))
     (pin "2" (uuid aaac2728-ffaa-4ba2-8d41-b7aeffe8575b))
     (instances
-      (project "gear60"
+      (project "gear60_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "R9") (unit 1)
         )
@@ -5275,9 +5429,35 @@
     (pin "1" (uuid d6bdbf23-1565-4914-956c-c179bc53370e))
     (pin "2" (uuid f67265db-8e6d-43a1-815a-0c2aab7f6f93))
     (instances
-      (project "gear60"
+      (project "gear60_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "C1") (unit 1)
+        )
+      )
+    )
+  )
+
+  (symbol (lib_id "PCM_marbastlib-mx:MX_SW_HS") (at 455.93 97.79 0) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no)
+    (uuid 2c9ac468-b127-4afe-9e7f-574ff99d15e3)
+    (property "Reference" "MX46" (at 462.28 97.79 0)
+      (effects (font (size 1.27 1.27)))
+    )
+    (property "Value" "MX_SW_solder" (at 466.09 100.33 0)
+      (effects (font (size 1.27 1.27)))
+    )
+    (property "Footprint" "PCM_marbastlib-mx:SW_MX_1u" (at 455.93 97.79 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "~" (at 455.93 97.79 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid b2329bcb-8700-4a09-912e-574ab2bd4260))
+    (pin "2" (uuid 021ea57b-165b-4bbb-9b10-a594df7d86d5))
+    (instances
+      (project "gear60_solder"
+        (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
+          (reference "MX46") (unit 1)
         )
       )
     )
@@ -5301,7 +5481,7 @@
     (pin "1" (uuid 6a5955b7-34d9-48fd-8f7d-371b8d9982e5))
     (pin "2" (uuid f7e72f73-9315-4131-b4d3-589793f9a6c2))
     (instances
-      (project "gear60"
+      (project "gear60_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "MX20") (unit 1)
         )
@@ -5326,7 +5506,7 @@
     )
     (pin "1" (uuid 6819b393-6363-4f69-81e5-68eb7dabb253))
     (instances
-      (project "gear60"
+      (project "gear60_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "#PWR019") (unit 1)
         )
@@ -5352,7 +5532,7 @@
     (pin "1" (uuid 72a889bd-d39c-4a11-b912-ff7210fe1b78))
     (pin "2" (uuid 0791753e-1b80-4f35-8797-60f999a39a1e))
     (instances
-      (project "gear60"
+      (project "gear60_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "MX37") (unit 1)
         )
@@ -5378,7 +5558,7 @@
     (pin "1" (uuid c45ed182-06a9-4e17-b878-5bd97ca35fec))
     (pin "2" (uuid 59c67e47-4622-4574-bd65-ea42c888aa29))
     (instances
-      (project "gear60"
+      (project "gear60_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "MX15") (unit 1)
         )
@@ -5418,7 +5598,7 @@
           (reference "F1") (unit 1)
         )
       )
-      (project "gear60"
+      (project "gear60_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "F1") (unit 1)
         )
@@ -5450,7 +5630,7 @@
     (pin "1" (uuid 4c55abf8-de85-47c7-a634-1aefb664eb40))
     (pin "2" (uuid b8e5ed78-9667-42da-a356-134bab518776))
     (instances
-      (project "gear60"
+      (project "gear60_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "D69") (unit 1)
         )
@@ -5476,7 +5656,7 @@
     (pin "1" (uuid 0fc17514-7339-45b4-8c17-e07144077095))
     (pin "2" (uuid 4dc5a6e4-e790-4964-9de1-4f29c2ccf6ec))
     (instances
-      (project "gear60"
+      (project "gear60_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "MX29") (unit 1)
         )
@@ -5502,7 +5682,7 @@
     (pin "1" (uuid ed0e0ecf-b028-463d-9e02-f550556fe640))
     (pin "2" (uuid a78d3e86-ac91-4dc1-bcab-db82f8da70a4))
     (instances
-      (project "gear60"
+      (project "gear60_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "MX34") (unit 1)
         )
@@ -5528,7 +5708,7 @@
     (pin "1" (uuid 49267ae5-5334-4f88-bbb0-d9cfb40be833))
     (pin "2" (uuid 6b2f3bb0-d4de-4fc9-a913-c5a852dbb388))
     (instances
-      (project "gear60"
+      (project "gear60_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "R3") (unit 1)
         )
@@ -5560,7 +5740,7 @@
     (pin "1" (uuid f43a6d50-16b4-488c-82c3-d711ac42f08d))
     (pin "2" (uuid cee7e603-55d5-4f5a-96f0-a9c9aa741cef))
     (instances
-      (project "gear60"
+      (project "gear60_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "D38") (unit 1)
         )
@@ -5586,7 +5766,7 @@
     (pin "1" (uuid 1245a4a9-325b-47c3-90e0-ae2a83a98c16))
     (pin "2" (uuid 0807a551-bd8b-4fd6-b315-f235fad1eed0))
     (instances
-      (project "gear60"
+      (project "gear60_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "C8") (unit 1)
         )
@@ -5612,7 +5792,7 @@
     (pin "1" (uuid ae41abb5-a689-43c2-93dc-09aa7385859e))
     (pin "2" (uuid 7a91fe51-c9be-4381-a8e1-a84eacace5ca))
     (instances
-      (project "gear60"
+      (project "gear60_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "MX53") (unit 1)
         )
@@ -5637,7 +5817,7 @@
     )
     (pin "1" (uuid f7ca1b51-e1c4-4709-9fe2-fd44ea775923))
     (instances
-      (project "gear60"
+      (project "gear60_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "#PWR023") (unit 1)
         )
@@ -5663,9 +5843,35 @@
     (pin "1" (uuid 46aec5d2-4ac0-418f-a04b-fafb5d29dfd6))
     (pin "2" (uuid e207a97f-c886-4d27-bfb9-2547a5606632))
     (instances
-      (project "gear60"
+      (project "gear60_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "MX19") (unit 1)
+        )
+      )
+    )
+  )
+
+  (symbol (lib_id "PCM_marbastlib-mx:MX_SW_HS") (at 433.07 139.7 0) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no)
+    (uuid 3c6e189f-b68a-4fbf-92c6-5a5260921f43)
+    (property "Reference" "MX86" (at 427.99 132.08 0)
+      (effects (font (size 1.27 1.27)))
+    )
+    (property "Value" "MX_SW_solder" (at 431.8 133.35 0)
+      (effects (font (size 1.27 1.27)))
+    )
+    (property "Footprint" "PCM_marbastlib-mx:SW_MX_1.25u" (at 433.07 139.7 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "~" (at 433.07 139.7 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid d5035a84-cad9-4c5e-a1ee-ce846d41e077))
+    (pin "2" (uuid 34008032-e153-496e-a686-9604d434efe8))
+    (instances
+      (project "gear60_solder"
+        (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
+          (reference "MX86") (unit 1)
         )
       )
     )
@@ -5689,7 +5895,7 @@
     (pin "1" (uuid 3725ce34-58fa-4248-af97-5ec11e0fa141))
     (pin "2" (uuid c7797281-435d-47d5-8997-438be6936f7b))
     (instances
-      (project "gear60"
+      (project "gear60_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "MX61") (unit 1)
         )
@@ -5721,7 +5927,7 @@
     (pin "1" (uuid 6e1d4145-5165-4078-a7cc-9e0d5dd4776d))
     (pin "2" (uuid 7d5313c2-12b4-440c-96ed-b7fb83a4d58d))
     (instances
-      (project "gear60"
+      (project "gear60_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "D55") (unit 1)
         )
@@ -5746,7 +5952,7 @@
     )
     (pin "1" (uuid 57007b2c-5d25-4825-8fdf-d2f91d0209f3))
     (instances
-      (project "gear60"
+      (project "gear60_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "#PWR013") (unit 1)
         )
@@ -5778,7 +5984,7 @@
     (pin "1" (uuid 45c145e4-4afe-4102-8e98-f09efe052568))
     (pin "2" (uuid c9060909-bca7-4eb5-bc09-71579a52fe8e))
     (instances
-      (project "gear60"
+      (project "gear60_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "D54") (unit 1)
         )
@@ -5810,7 +6016,7 @@
     (pin "1" (uuid b9036510-6c0a-4cd0-9351-066f53a05dc8))
     (pin "2" (uuid 5c12b070-68c3-47a1-afe6-98bafa718bf3))
     (instances
-      (project "gear60"
+      (project "gear60_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "D39") (unit 1)
         )
@@ -5842,7 +6048,7 @@
     (pin "1" (uuid 1315b0dd-a992-41f2-bfb9-eae1014cb713))
     (pin "2" (uuid 3cfaf296-d1cf-43b4-9ba4-066aadc30736))
     (instances
-      (project "gear60"
+      (project "gear60_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "D1") (unit 1)
         )
@@ -5851,9 +6057,9 @@
   )
 
   (symbol (lib_id "PCM_marbastlib-mx:MX_SW_HS") (at 449.58 97.79 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom yes) (on_board yes) (dnp no)
     (uuid 42b2fbbd-4c7c-4e14-9028-458e1269d006)
-    (property "Reference" "MX45" (at 449.58 90.17 0)
+    (property "Reference" "MX45" (at 445.77 90.17 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "MX_SW_solder" (at 449.58 92.71 0)
@@ -5868,7 +6074,7 @@
     (pin "1" (uuid ebc60fff-2dc2-4238-b50e-b440e700cadd))
     (pin "2" (uuid 303a9f8e-abcf-418f-832d-bfa9d5a05d72))
     (instances
-      (project "gear60"
+      (project "gear60_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "MX45") (unit 1)
         )
@@ -5879,10 +6085,10 @@
   (symbol (lib_id "PCM_marbastlib-mx:MX_SW_HS") (at 257.81 139.7 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 431a1065-2139-4c05-97e7-bbf8e8f4146f)
-    (property "Reference" "MX64" (at 248.92 132.08 0)
+    (property "Reference" "MX64" (at 247.65 132.08 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "MX_SW_solder" (at 252.73 134.62 0)
+    (property "Value" "MX_SW_solder" (at 254 134.62 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "PCM_marbastlib-mx:SW_MX_1u" (at 257.81 139.7 0)
@@ -5894,7 +6100,7 @@
     (pin "1" (uuid fe8eb68f-e8fd-43ce-993b-801a07ebcaed))
     (pin "2" (uuid 3a0d52b7-a907-475c-9872-746d32c28bee))
     (instances
-      (project "gear60"
+      (project "gear60_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "MX64") (unit 1)
         )
@@ -5926,7 +6132,7 @@
     (pin "1" (uuid af3fd9c6-0ffa-4b91-8ff4-3259d9b251f6))
     (pin "2" (uuid 89d5aac5-2e05-4284-80ef-e5a0808a6617))
     (instances
-      (project "gear60"
+      (project "gear60_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "D11") (unit 1)
         )
@@ -5953,7 +6159,7 @@
     (pin "2" (uuid 0f027ad9-085b-4d51-8054-6cb1af00b0e6))
     (pin "3" (uuid 37955e5f-4db3-40bf-8926-0ead50b9f215))
     (instances
-      (project "gear60"
+      (project "gear60_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "U1") (unit 1)
         )
@@ -5978,7 +6184,7 @@
     )
     (pin "1" (uuid 688c3a93-e6c8-4329-bbbb-090fc43e6747))
     (instances
-      (project "gear60"
+      (project "gear60_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "#PWR01") (unit 1)
         )
@@ -6010,7 +6216,7 @@
     (pin "1" (uuid 1e69ebc8-5c42-4fde-957b-37e36b574a51))
     (pin "2" (uuid c4d5ef37-1567-442a-8383-d9b84066ddc6))
     (instances
-      (project "gear60"
+      (project "gear60_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "D30") (unit 1)
         )
@@ -6035,7 +6241,7 @@
     )
     (pin "1" (uuid f4da18e3-9a76-41d1-b970-06fb02e80495))
     (instances
-      (project "gear60"
+      (project "gear60_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "#PWR020") (unit 1)
         )
@@ -6067,7 +6273,7 @@
     (pin "1" (uuid 5299ad4c-0698-47d9-a4a3-34f2071027e9))
     (pin "2" (uuid bb7a2405-f285-4472-99cc-2fb09ab9516c))
     (instances
-      (project "gear60"
+      (project "gear60_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "D48") (unit 1)
         )
@@ -6099,9 +6305,35 @@
     (pin "1" (uuid d1456be0-9fa3-4e5b-9651-bb2c46dda9c9))
     (pin "2" (uuid e69dc268-bff2-483b-b4a8-23ba66fa45ba))
     (instances
-      (project "gear60"
+      (project "gear60_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "D22") (unit 1)
+        )
+      )
+    )
+  )
+
+  (symbol (lib_id "PCM_marbastlib-mx:MX_SW_HS") (at 443.23 139.7 180) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no)
+    (uuid 4a1a1fc0-be6f-4994-877d-bc7e6e8b202e)
+    (property "Reference" "MX85" (at 440.69 133.35 0)
+      (effects (font (size 1.27 1.27)))
+    )
+    (property "Value" "MX_SW_solder" (at 444.5 134.62 0)
+      (effects (font (size 1.27 1.27)))
+    )
+    (property "Footprint" "PCM_marbastlib-mx:SW_MX_1.25u" (at 443.23 139.7 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "~" (at 443.23 139.7 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid fd9f1bf8-da8c-453b-aa3c-fc4e33e98c05))
+    (pin "2" (uuid ea8459d3-3a40-4641-bc81-971bc4ab5a3b))
+    (instances
+      (project "gear60_solder"
+        (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
+          (reference "MX85") (unit 1)
         )
       )
     )
@@ -6124,7 +6356,7 @@
     )
     (pin "1" (uuid d24dcb80-61e8-434a-85bf-a67da324af9f))
     (instances
-      (project "gear60"
+      (project "gear60_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "#PWR029") (unit 1)
         )
@@ -6150,7 +6382,7 @@
     (pin "1" (uuid 5dea784c-690b-4769-935a-99eb04c25cf3))
     (pin "2" (uuid f6b205e4-ea11-488f-a09d-55ef5fa00c09))
     (instances
-      (project "gear60"
+      (project "gear60_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "R6") (unit 1)
         )
@@ -6182,7 +6414,7 @@
     (pin "1" (uuid 080aa5a2-6806-400b-aa8f-84de600e82b4))
     (pin "2" (uuid eb868e15-f29d-480f-bc03-39c0836cc5ff))
     (instances
-      (project "gear60"
+      (project "gear60_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "D72") (unit 1)
         )
@@ -6207,9 +6439,35 @@
     )
     (pin "1" (uuid e6da6f1a-f97c-41da-beee-58ce3f0be190))
     (instances
-      (project "gear60"
+      (project "gear60_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "#PWR025") (unit 1)
+        )
+      )
+    )
+  )
+
+  (symbol (lib_id "PCM_marbastlib-mx:MX_SW_HS") (at 455.93 77.47 180) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no)
+    (uuid 4ec0c153-5df4-4192-8483-c60e41e9fa89)
+    (property "Reference" "MX31" (at 462.28 76.2 0)
+      (effects (font (size 1.27 1.27)))
+    )
+    (property "Value" "MX_SW_solder" (at 466.09 78.74 0)
+      (effects (font (size 1.27 1.27)))
+    )
+    (property "Footprint" "PCM_marbastlib-mx:SW_MX_1u" (at 455.93 77.47 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "~" (at 455.93 77.47 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 9415ebb8-548c-43bd-8caa-5003792bc420))
+    (pin "2" (uuid 3ea7e878-9a9f-41ea-a8e0-745f49291150))
+    (instances
+      (project "gear60_solder"
+        (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
+          (reference "MX31") (unit 1)
         )
       )
     )
@@ -6239,7 +6497,7 @@
     (pin "1" (uuid d5964d11-948e-4781-a586-65a89006c09f))
     (pin "2" (uuid 1decdd54-f91d-4990-8ea0-3732f71d4213))
     (instances
-      (project "gear60"
+      (project "gear60_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "D24") (unit 1)
         )
@@ -6269,7 +6527,7 @@
     (pin "5" (uuid 31976fa9-79ee-42b8-8d93-c402b353e362))
     (pin "6" (uuid 8cf43a65-1416-420a-b865-44c13c34ac01))
     (instances
-      (project "gear60"
+      (project "gear60_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "U2") (unit 1)
         )
@@ -6293,9 +6551,35 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (instances
-      (project "gear60"
+      (project "gear60_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "S7") (unit 1)
+        )
+      )
+    )
+  )
+
+  (symbol (lib_id "PCM_marbastlib-mx:MX_SW_HS") (at 228.6 139.7 0) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no)
+    (uuid 52fedce2-63b3-4719-96f7-421980bcaa2f)
+    (property "Reference" "MX82" (at 220.98 140.97 0)
+      (effects (font (size 1.27 1.27)))
+    )
+    (property "Value" "MX_SW_solder" (at 224.79 143.51 0)
+      (effects (font (size 1.27 1.27)))
+    )
+    (property "Footprint" "PCM_marbastlib-mx:SW_MX_1.25u" (at 228.6 139.7 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "~" (at 228.6 139.7 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 425daa88-ca50-4c65-b3ce-e539095e75cb))
+    (pin "2" (uuid 8c797a3e-3626-46e4-b8b2-4e3e76aa7cd1))
+    (instances
+      (project "gear60_solder"
+        (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
+          (reference "MX82") (unit 1)
         )
       )
     )
@@ -6325,7 +6609,7 @@
     (pin "1" (uuid f52f33c6-6c60-4b7c-92b1-6a6756431403))
     (pin "2" (uuid 5ff83002-2f81-435c-b4f8-506a73d89b01))
     (instances
-      (project "gear60"
+      (project "gear60_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "D15") (unit 1)
         )
@@ -6351,7 +6635,7 @@
     (pin "1" (uuid 5ed2df3e-eaae-416c-bfaa-24dbed87d32b))
     (pin "2" (uuid 1b802aec-172f-4510-9cdf-3e06d358f96a))
     (instances
-      (project "gear60"
+      (project "gear60_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "MX24") (unit 1)
         )
@@ -6377,7 +6661,7 @@
     (pin "1" (uuid cf058c92-5ea8-4108-96ab-f616efee9760))
     (pin "2" (uuid d176bf1b-eb8a-47f6-8f29-59a335a34539))
     (instances
-      (project "gear60"
+      (project "gear60_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "MX60") (unit 1)
         )
@@ -6402,7 +6686,7 @@
     )
     (pin "1" (uuid 2a582f08-38a6-4e16-9700-7cde821cd1f0))
     (instances
-      (project "gear60"
+      (project "gear60_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "#PWR02") (unit 1)
         )
@@ -6427,7 +6711,7 @@
     )
     (pin "1" (uuid f86d0bc2-243c-42c3-a539-69a457bd66f1))
     (instances
-      (project "gear60"
+      (project "gear60_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "#PWR012") (unit 1)
         )
@@ -6435,23 +6719,23 @@
     )
   )
 
-  (symbol (lib_id "PCM_marbastlib-mx:MX_stab") (at 330.2 139.7 0) (unit 1)
+  (symbol (lib_id "PCM_marbastlib-mx:MX_stab") (at 325.12 139.7 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 59895c62-acab-4c1d-8c5b-3fad48210a3b)
-    (property "Reference" "S3" (at 336.55 138.303 0)
+    (property "Reference" "S3" (at 331.47 138.303 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "stb" (at 336.55 140.843 0)
+    (property "Value" "stb" (at 331.47 140.843 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "PCM_marbastlib-mx:STAB_MX_P_2.25u" (at 330.2 139.7 0)
+    (property "Footprint" "PCM_marbastlib-mx:STAB_MX_P_2.25u" (at 325.12 139.7 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "" (at 330.2 139.7 0)
+    (property "Datasheet" "" (at 325.12 139.7 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (instances
-      (project "gear60"
+      (project "gear60_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "S3") (unit 1)
         )
@@ -6477,7 +6761,7 @@
     (pin "1" (uuid b8815a62-485e-463e-aa7d-da1e3755fb79))
     (pin "2" (uuid 862e47c9-5e9f-4d5b-a501-44e8ec2071ec))
     (instances
-      (project "gear60"
+      (project "gear60_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "MX22") (unit 1)
         )
@@ -6503,7 +6787,7 @@
     (pin "1" (uuid 8a901137-0a16-40fc-a143-e28ff49e49b9))
     (pin "2" (uuid aafd3ba7-a415-4aa6-93a3-534b8bc2bbe2))
     (instances
-      (project "gear60"
+      (project "gear60_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "MX59") (unit 1)
         )
@@ -6529,7 +6813,7 @@
     (pin "1" (uuid 1b2be826-8e6f-474b-948e-57355f103dcb))
     (pin "2" (uuid 5a1a8235-8f00-4295-ae4d-1a0d08f26567))
     (instances
-      (project "gear60"
+      (project "gear60_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "MX3") (unit 1)
         )
@@ -6555,7 +6839,7 @@
     (pin "1" (uuid d1d32467-91f4-4087-a68f-226844cbf99d))
     (pin "2" (uuid 9c408e6b-e64f-4c66-b811-c83be679b615))
     (instances
-      (project "gear60"
+      (project "gear60_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "MX11") (unit 1)
         )
@@ -6581,7 +6865,7 @@
     (pin "1" (uuid d7ad3c66-4885-4f20-a26e-08cde265923c))
     (pin "2" (uuid 205f7468-72cb-4bf6-91b3-4d04d911f6ce))
     (instances
-      (project "gear60"
+      (project "gear60_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "R1") (unit 1)
         )
@@ -6609,7 +6893,7 @@
     (pin "3" (uuid 88bf444b-774e-40de-971f-a70415eac437))
     (pin "4" (uuid 53b22777-59fd-46b0-95a0-cf979602640a))
     (instances
-      (project "gear60"
+      (project "gear60_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "Y1") (unit 1)
         )
@@ -6641,7 +6925,7 @@
     (pin "1" (uuid e7a7e0c5-77a3-4425-b92d-6103a47ecdcd))
     (pin "2" (uuid 57b6cdf3-c341-4ec0-81b5-4e6e9c165e57))
     (instances
-      (project "gear60"
+      (project "gear60_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "D71") (unit 1)
         )
@@ -6673,9 +6957,35 @@
     (pin "1" (uuid 8fa42031-ce27-45ee-badb-40741ed3c520))
     (pin "2" (uuid 423b2ff8-a5c2-438b-ba2a-24d46d0d168d))
     (instances
-      (project "gear60"
+      (project "gear60_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "D57") (unit 1)
+        )
+      )
+    )
+  )
+
+  (symbol (lib_id "PCM_marbastlib-mx:MX_SW_HS") (at 339.09 139.7 0) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no)
+    (uuid 6556b028-6322-46ae-88a0-9bee4e2cfdf2)
+    (property "Reference" "MX83" (at 337.82 130.81 0)
+      (effects (font (size 1.27 1.27)))
+    )
+    (property "Value" "MX_SW_solder" (at 330.2 134.62 0)
+      (effects (font (size 1.27 1.27)))
+    )
+    (property "Footprint" "PCM_marbastlib-mx:SW_MX_1u" (at 339.09 139.7 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "~" (at 339.09 139.7 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 77113251-71cc-42ad-85ca-4a87c19f0d9b))
+    (pin "2" (uuid 944dcf36-6104-4baf-8704-c1b51533c3bf))
+    (instances
+      (project "gear60_solder"
+        (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
+          (reference "MX83") (unit 1)
         )
       )
     )
@@ -6699,7 +7009,7 @@
     (pin "1" (uuid 6a56e323-4feb-4e2e-b6e3-6a4bb6a1ade9))
     (pin "2" (uuid 11ceecc1-9b41-4a0b-af6b-b47a6278b493))
     (instances
-      (project "gear60"
+      (project "gear60_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "MX39") (unit 1)
         )
@@ -6731,7 +7041,7 @@
     (pin "1" (uuid df303dde-50f5-4890-9f08-693dafb3593d))
     (pin "2" (uuid ada71486-504d-4044-98fe-bbfc6730a59e))
     (instances
-      (project "gear60"
+      (project "gear60_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "D8") (unit 1)
         )
@@ -6756,7 +7066,7 @@
     )
     (pin "1" (uuid 3bea952f-c599-40b8-b358-ba575231bfd4))
     (instances
-      (project "gear60"
+      (project "gear60_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "#PWR026") (unit 1)
         )
@@ -6788,7 +7098,7 @@
     (pin "1" (uuid a0403eed-50c2-4b7a-8758-b8c6c924cc65))
     (pin "2" (uuid 96ab1dc7-9d36-49c9-a777-4505a170b295))
     (instances
-      (project "gear60"
+      (project "gear60_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "D45") (unit 1)
         )
@@ -6814,7 +7124,7 @@
     (pin "1" (uuid 873428b9-6c0c-48f7-bafb-7ac73fe83ace))
     (pin "2" (uuid de7c552f-a9e5-49db-87be-abddefe46d64))
     (instances
-      (project "gear60"
+      (project "gear60_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "MX10") (unit 1)
         )
@@ -6846,7 +7156,7 @@
     (pin "1" (uuid 5f90e59b-3a8b-4611-88fd-84b5079027b8))
     (pin "2" (uuid 85647acc-a3fc-4edb-968c-f10beae9d6b9))
     (instances
-      (project "gear60"
+      (project "gear60_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "D9") (unit 1)
         )
@@ -6857,10 +7167,10 @@
   (symbol (lib_id "PCM_marbastlib-mx:MX_SW_HS") (at 236.22 139.7 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 693fe37d-88f4-454b-90bf-58a204cef68f)
-    (property "Reference" "MX73" (at 229.87 138.43 0)
+    (property "Reference" "MX73" (at 222.25 133.35 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "MX_SW_solder" (at 226.06 140.97 0)
+    (property "Value" "MX_SW_solder" (at 224.79 135.89 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "PCM_marbastlib-mx:SW_MX_1.5u" (at 236.22 139.7 0)
@@ -6872,7 +7182,7 @@
     (pin "1" (uuid 914a2f45-9489-46b5-9171-7e9cf5c6f273))
     (pin "2" (uuid 6b94fb48-97b6-418c-a4dd-80d8b5b11b46))
     (instances
-      (project "gear60"
+      (project "gear60_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "MX73") (unit 1)
         )
@@ -6904,7 +7214,7 @@
     (pin "1" (uuid ad539ac2-90cc-416d-af16-563468b16682))
     (pin "2" (uuid 6730feff-999b-4303-99aa-fb666f898d54))
     (instances
-      (project "gear60"
+      (project "gear60_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "D18") (unit 1)
         )
@@ -6930,7 +7240,7 @@
     (pin "1" (uuid d0dbfa36-ca81-406e-a25b-f911e96dd7e3))
     (pin "2" (uuid 8065b384-d994-4d9d-8cd8-77327efd4a3c))
     (instances
-      (project "gear60"
+      (project "gear60_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "C14") (unit 1)
         )
@@ -6962,7 +7272,7 @@
     (pin "1" (uuid f471d667-43bd-4e11-90fc-fded76e191a4))
     (pin "2" (uuid 5724b2f1-7f96-40fe-ad6d-237f974be71f))
     (instances
-      (project "gear60"
+      (project "gear60_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "D64") (unit 1)
         )
@@ -6994,7 +7304,7 @@
     (pin "1" (uuid c0da2a13-9661-4e41-9062-5ff38494ab0b))
     (pin "2" (uuid c9c73216-df2c-4465-bf38-48258aa2233b))
     (instances
-      (project "gear60"
+      (project "gear60_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "D20") (unit 1)
         )
@@ -7020,7 +7330,7 @@
     (pin "1" (uuid 5c7f7424-2583-417c-be4e-946e002acbc1))
     (pin "2" (uuid ee24a5f0-a4f3-4d24-9ced-6c23860a438a))
     (instances
-      (project "gear60"
+      (project "gear60_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "MX57") (unit 1)
         )
@@ -7045,7 +7355,7 @@
     )
     (pin "1" (uuid 937b38fb-66f6-4616-8753-90361d007e74))
     (instances
-      (project "gear60"
+      (project "gear60_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "#PWR018") (unit 1)
         )
@@ -7077,7 +7387,7 @@
     (pin "1" (uuid 88642d23-d344-4265-86f3-bbcf56c616ac))
     (pin "2" (uuid 9fbcae94-22f4-4431-b329-54e67ab7bb00))
     (instances
-      (project "gear60"
+      (project "gear60_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "D67") (unit 1)
         )
@@ -7109,7 +7419,7 @@
     (pin "1" (uuid 73f325a9-1135-4685-b6c0-9a3d7e73eb5d))
     (pin "2" (uuid 0273487f-be69-4c3c-8909-4aeec828398b))
     (instances
-      (project "gear60"
+      (project "gear60_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "D35") (unit 1)
         )
@@ -7135,7 +7445,7 @@
     (pin "1" (uuid b48d1b44-d18a-4ba4-bfd8-7fdc6d2fba1e))
     (pin "2" (uuid ed4485d1-6ab3-415b-8a55-9390f883baf0))
     (instances
-      (project "gear60"
+      (project "gear60_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "MX77") (unit 1)
         )
@@ -7161,7 +7471,7 @@
     (pin "1" (uuid 8b68e599-b55d-4960-8eb1-a01dd03c7b8a))
     (pin "2" (uuid a9fbce88-a1c4-4861-94a2-48d4e33f52a5))
     (instances
-      (project "gear60"
+      (project "gear60_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "MX21") (unit 1)
         )
@@ -7187,7 +7497,7 @@
     (pin "1" (uuid 570206be-34b6-46fb-ade9-b267cd07fa65))
     (pin "2" (uuid ad8abc6f-a5ff-49ff-9846-231846331981))
     (instances
-      (project "gear60"
+      (project "gear60_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "R4") (unit 1)
         )
@@ -7213,7 +7523,7 @@
     (pin "1" (uuid 0056a483-20f7-4a7e-966c-c75c589f6b2b))
     (pin "2" (uuid 0ab5d0aa-b6c9-4074-92c8-e7f0155a2d40))
     (instances
-      (project "gear60"
+      (project "gear60_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "MX14") (unit 1)
         )
@@ -7239,7 +7549,7 @@
     (pin "1" (uuid 84375942-d683-48f7-ba10-93a07278efc4))
     (pin "2" (uuid 008811a7-ce53-4690-8733-fbae753bc825))
     (instances
-      (project "gear60"
+      (project "gear60_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "MX36") (unit 1)
         )
@@ -7265,7 +7575,7 @@
     (pin "1" (uuid 14dc9203-d99d-4824-b3f0-22e90f927012))
     (pin "2" (uuid de226b17-448c-48ec-b133-5eecf930aaa3))
     (instances
-      (project "gear60"
+      (project "gear60_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "MX51") (unit 1)
         )
@@ -7297,7 +7607,7 @@
     (pin "1" (uuid a03df6ba-4c48-4b0a-9693-28f52f52dce7))
     (pin "2" (uuid df1166f0-0f31-4a1b-bdf6-7af76245c3da))
     (instances
-      (project "gear60"
+      (project "gear60_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "D60") (unit 1)
         )
@@ -7323,7 +7633,7 @@
     (pin "1" (uuid 29cde7cb-f942-4d06-a3f8-b2c42d18dc53))
     (pin "2" (uuid 3f4b0b85-c04b-432e-847c-ae103ff02df9))
     (instances
-      (project "gear60"
+      (project "gear60_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "MX2") (unit 1)
         )
@@ -7349,7 +7659,7 @@
     (pin "1" (uuid 76b7110b-b974-4eff-ad51-54cdbfccbd4e))
     (pin "2" (uuid 1b76609b-cbdd-49c2-8f63-a3b9539c7877))
     (instances
-      (project "gear60"
+      (project "gear60_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "C15") (unit 1)
         )
@@ -7374,7 +7684,7 @@
     )
     (pin "1" (uuid 96322ea1-f448-42f5-b44f-e65a17ca74e3))
     (instances
-      (project "gear60"
+      (project "gear60_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "#PWR014") (unit 1)
         )
@@ -7406,7 +7716,7 @@
     (pin "1" (uuid 257c6a54-203d-4e65-ab91-9331a18941b2))
     (pin "2" (uuid 5764d8c0-568a-4bbd-ad46-6eab71e76f60))
     (instances
-      (project "gear60"
+      (project "gear60_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "D36") (unit 1)
         )
@@ -7432,7 +7742,7 @@
     (pin "1" (uuid 18b34c13-7d43-4c93-a999-fdb50d655f46))
     (pin "2" (uuid 692c90a0-23c8-4b42-b5bb-86a8e67d0ac8))
     (instances
-      (project "gear60"
+      (project "gear60_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "MX48") (unit 1)
         )
@@ -7458,7 +7768,7 @@
     (pin "1" (uuid c407c7e6-ab13-4557-a73d-70288f556e02))
     (pin "2" (uuid 6ff39e1c-dfeb-4c6f-9199-4b67fd6a0c54))
     (instances
-      (project "gear60"
+      (project "gear60_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "MX9") (unit 1)
         )
@@ -7490,7 +7800,7 @@
     (pin "1" (uuid 775268c5-06dc-4748-b0a2-65f131657a74))
     (pin "2" (uuid a94e9247-2efe-4692-9fab-11a3759726af))
     (instances
-      (project "gear60"
+      (project "gear60_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "D51") (unit 1)
         )
@@ -7522,7 +7832,7 @@
     (pin "1" (uuid 727cd443-c2ed-4342-a206-adca397d5654))
     (pin "2" (uuid ee501661-5a7b-47c4-9907-696862c16c6f))
     (instances
-      (project "gear60"
+      (project "gear60_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "D4") (unit 1)
         )
@@ -7548,7 +7858,7 @@
     (pin "1" (uuid a12713b6-2ee9-4cd3-a04f-e5dd394e2ec2))
     (pin "2" (uuid f8aec7f7-11b6-4250-847e-acb10a6b098a))
     (instances
-      (project "gear60"
+      (project "gear60_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "MX18") (unit 1)
         )
@@ -7573,7 +7883,7 @@
     )
     (pin "1" (uuid 4f245943-1b72-46d8-a4d4-d201859fa861))
     (instances
-      (project "gear60"
+      (project "gear60_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "#PWR024") (unit 1)
         )
@@ -7584,10 +7894,10 @@
   (symbol (lib_id "PCM_marbastlib-mx:MX_SW_HS") (at 345.44 139.7 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 8b73ad4b-ff09-4a5c-86df-4feebddda515)
-    (property "Reference" "MX67" (at 336.55 132.08 0)
+    (property "Reference" "MX67" (at 326.39 132.08 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "MX_SW_solder" (at 340.36 134.62 0)
+    (property "Value" "MX_SW_solder" (at 341.63 133.35 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "PCM_marbastlib-mx:SW_MX_1u" (at 345.44 139.7 0)
@@ -7599,7 +7909,7 @@
     (pin "1" (uuid 6e109249-4615-4f7b-b4c7-d648caae483b))
     (pin "2" (uuid b7555a2c-3bcd-476d-a211-845e088dbf6b))
     (instances
-      (project "gear60"
+      (project "gear60_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "MX67") (unit 1)
         )
@@ -7631,7 +7941,7 @@
     (pin "1" (uuid 89a1f99e-c3b0-4330-a0d4-2dc2c3450fec))
     (pin "2" (uuid 36325e84-4aa5-4081-b7e8-974ce8bfa992))
     (instances
-      (project "gear60"
+      (project "gear60_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "D27") (unit 1)
         )
@@ -7657,7 +7967,7 @@
     (pin "1" (uuid 1287b63d-47ca-49f2-acf7-0734541105b6))
     (pin "2" (uuid 74f45787-4017-4b91-8a89-d445d6490c5d))
     (instances
-      (project "gear60"
+      (project "gear60_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "MX56") (unit 1)
         )
@@ -7689,7 +7999,7 @@
     (pin "1" (uuid 7fb08574-f962-4109-9adf-49bb676f9cbb))
     (pin "2" (uuid 026f8935-5998-4826-a91e-b115b09a62ae))
     (instances
-      (project "gear60"
+      (project "gear60_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "D6") (unit 1)
         )
@@ -7721,7 +8031,7 @@
     (pin "1" (uuid 6b89c141-486a-48ae-b09a-6cf712501626))
     (pin "2" (uuid 1eaeb8bb-df31-45b8-994c-039371910e3b))
     (instances
-      (project "gear60"
+      (project "gear60_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "D68") (unit 1)
         )
@@ -7747,7 +8057,7 @@
     (pin "1" (uuid 6334f22c-1044-4a97-ba25-0e862563f1fd))
     (pin "2" (uuid f08ad197-9bc9-47a2-b3be-fe3c1729a741))
     (instances
-      (project "gear60"
+      (project "gear60_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "MX1") (unit 1)
         )
@@ -7772,7 +8082,7 @@
     )
     (pin "1" (uuid 8a220b71-6993-44ca-a622-8a035f0c7f28))
     (instances
-      (project "gear60"
+      (project "gear60_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "#PWR09") (unit 1)
         )
@@ -7798,7 +8108,7 @@
     (pin "1" (uuid ce9e9ed9-eb94-4760-893c-a6c46640561d))
     (pin "2" (uuid eeb53102-a164-44bd-9e51-91529d8401cb))
     (instances
-      (project "gear60"
+      (project "gear60_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "MX76") (unit 1)
         )
@@ -7830,7 +8140,7 @@
     (pin "1" (uuid 23f05c60-11c0-4321-8a6d-7f67048f1c5f))
     (pin "2" (uuid 393bf1df-8af6-4b74-94d6-77f0f75447ba))
     (instances
-      (project "gear60"
+      (project "gear60_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "D26") (unit 1)
         )
@@ -7862,7 +8172,7 @@
     (pin "1" (uuid f06b8de8-580d-4244-a106-6da348100808))
     (pin "2" (uuid 0b9628ad-4fec-43c2-bd14-ebc3ef150518))
     (instances
-      (project "gear60"
+      (project "gear60_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "D28") (unit 1)
         )
@@ -7894,7 +8204,7 @@
     (pin "1" (uuid 1be42488-d04f-4e2b-8a4a-098b3597fd06))
     (pin "2" (uuid 08a528d8-c5d7-4718-a59f-f33875618fd3))
     (instances
-      (project "gear60"
+      (project "gear60_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "D58") (unit 1)
         )
@@ -7919,7 +8229,7 @@
     )
     (pin "1" (uuid abdc263e-98d8-4658-8b68-ae7c6cdf7763))
     (instances
-      (project "gear60"
+      (project "gear60_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "#PWR015") (unit 1)
         )
@@ -7951,7 +8261,7 @@
     (pin "1" (uuid 1005dda6-7015-49f4-8ed3-45e4a67fac7a))
     (pin "2" (uuid c0e454df-503a-42bb-876f-2d5ac4134f4a))
     (instances
-      (project "gear60"
+      (project "gear60_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "D34") (unit 1)
         )
@@ -7977,7 +8287,7 @@
     (pin "1" (uuid 1838a3f0-ea07-418b-9048-08ee5754f7d4))
     (pin "2" (uuid 8beb03b8-1612-4398-90a4-7d92904a9db7))
     (instances
-      (project "gear60"
+      (project "gear60_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "MX35") (unit 1)
         )
@@ -8003,7 +8313,7 @@
     (pin "1" (uuid 908de180-62ff-4d70-923d-dee46418528f))
     (pin "2" (uuid e5e0a2ef-e71e-4176-89bf-39d603c63e13))
     (instances
-      (project "gear60"
+      (project "gear60_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "MX8") (unit 1)
         )
@@ -8029,7 +8339,7 @@
     (pin "1" (uuid 4ffe7290-9b97-4f63-8b27-39ddc7f72514))
     (pin "2" (uuid ef9f8fc5-eea2-4d79-95df-9646467b9b18))
     (instances
-      (project "gear60"
+      (project "gear60_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "MX79") (unit 1)
         )
@@ -8055,7 +8365,7 @@
     (pin "1" (uuid 8a09cd64-4ccd-4c50-96a5-13ac5fd93eb1))
     (pin "2" (uuid feadf09f-3728-4a02-aa55-0fa0f8e9331f))
     (instances
-      (project "gear60"
+      (project "gear60_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "C5") (unit 1)
         )
@@ -8084,7 +8394,7 @@
     (pin "4" (uuid 128be28b-a32c-4fa6-953d-fea2dc6d24b4))
     (pin "5" (uuid e58b457f-07e5-4655-9cb0-111997103c4c))
     (instances
-      (project "gear60"
+      (project "gear60_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "J3") (unit 1)
         )
@@ -8116,7 +8426,7 @@
     (pin "1" (uuid 68720f35-8fe9-49c5-9696-0ac25ef77948))
     (pin "2" (uuid f1426dd1-578a-4644-97d6-41e85f81d1f6))
     (instances
-      (project "gear60"
+      (project "gear60_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "D66") (unit 1)
         )
@@ -8142,7 +8452,7 @@
     (pin "1" (uuid 290eec54-691e-4bcb-8056-beaa662d8419))
     (pin "2" (uuid a6485e35-60c1-41b3-86b4-dae449c1b155))
     (instances
-      (project "gear60"
+      (project "gear60_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "MX74") (unit 1)
         )
@@ -8168,7 +8478,7 @@
     (pin "1" (uuid 4e14e847-5382-45d2-86cd-d38933a03d28))
     (pin "2" (uuid 168d380d-cd01-47db-8edf-999b38a04ef2))
     (instances
-      (project "gear60"
+      (project "gear60_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "MX16") (unit 1)
         )
@@ -8194,7 +8504,7 @@
     (pin "1" (uuid c5e9f630-c1b2-435f-968c-f813ee897724))
     (pin "2" (uuid 167f5771-82a0-4a21-8347-2945c1cb3ffc))
     (instances
-      (project "gear60"
+      (project "gear60_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "MX6") (unit 1)
         )
@@ -8205,10 +8515,10 @@
   (symbol (lib_id "PCM_marbastlib-mx:MX_SW_HS") (at 279.4 139.7 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid a3bd5b17-7338-4b05-bbbd-90cc1c6fdf07)
-    (property "Reference" "MX75" (at 284.48 137.16 0)
+    (property "Reference" "MX75" (at 288.29 146.05 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "MX_SW_solder" (at 287.02 139.7 0)
+    (property "Value" "MX_SW_solder" (at 288.29 143.51 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "PCM_marbastlib-mx:SW_MX_1.5u" (at 279.4 139.7 0)
@@ -8220,7 +8530,7 @@
     (pin "1" (uuid bb1ace88-7587-461b-94ae-e7c4f32bca39))
     (pin "2" (uuid 0ed9ec84-5c74-4654-944e-c800c1f0562e))
     (instances
-      (project "gear60"
+      (project "gear60_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "MX75") (unit 1)
         )
@@ -8246,7 +8556,7 @@
     (pin "1" (uuid 2cd5e1a6-6c75-4400-b16e-f99db3447424))
     (pin "2" (uuid 03ed6e5f-381d-4fbd-8e76-4779bca1ba30))
     (instances
-      (project "gear60"
+      (project "gear60_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "C11") (unit 1)
         )
@@ -8277,7 +8587,7 @@
     (pin "1" (uuid 424d27d3-9575-4bd8-88ea-abcce1eb1091))
     (pin "2" (uuid f92ad044-0eb8-4a81-b3ad-e48c3e350800))
     (instances
-      (project "gear60"
+      (project "gear60_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "MX55") (unit 1)
         )
@@ -8302,7 +8612,7 @@
     )
     (pin "1" (uuid 3f4a179a-664c-4593-a160-c38b876599d7))
     (instances
-      (project "gear60"
+      (project "gear60_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "#PWR027") (unit 1)
         )
@@ -8326,7 +8636,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (instances
-      (project "gear60"
+      (project "gear60_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "S6") (unit 1)
         )
@@ -8352,7 +8662,7 @@
     (pin "1" (uuid dbe9d289-ad2d-435f-83b9-ec438994030e))
     (pin "2" (uuid 3ddfe564-5d5d-43b8-ab66-85e5718d8b79))
     (instances
-      (project "gear60"
+      (project "gear60_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "C6") (unit 1)
         )
@@ -8384,7 +8694,7 @@
     (pin "1" (uuid 153bfbbe-aea3-4d10-b395-c85f6ca7221d))
     (pin "2" (uuid 27c444f2-a2c0-4204-b7cc-990fd7ae8548))
     (instances
-      (project "gear60"
+      (project "gear60_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "D42") (unit 1)
         )
@@ -8416,7 +8726,7 @@
     (pin "1" (uuid f80db653-f56b-4b7f-b9c3-84bc1d7ec16b))
     (pin "2" (uuid 911ee4f0-e4e7-4d18-8916-c75d476f3493))
     (instances
-      (project "gear60"
+      (project "gear60_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "D43") (unit 1)
         )
@@ -8440,7 +8750,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (instances
-      (project "gear60"
+      (project "gear60_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "S4") (unit 1)
         )
@@ -8466,7 +8776,7 @@
     (pin "1" (uuid 2f4195c7-48c5-4037-9423-f937cf7098b7))
     (pin "2" (uuid 2fafcac8-1ce1-4fb9-8ef5-0ce4fdec2f44))
     (instances
-      (project "gear60"
+      (project "gear60_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "MX43") (unit 1)
         )
@@ -8491,7 +8801,7 @@
     )
     (pin "1" (uuid fec3c7ea-3167-4b3e-ad47-4c430813a8ab))
     (instances
-      (project "gear60"
+      (project "gear60_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "#PWR016") (unit 1)
         )
@@ -8523,7 +8833,7 @@
     (pin "1" (uuid a91d9460-b557-4e23-a30a-e66919dbf752))
     (pin "2" (uuid 79f8a56e-8678-4d12-9928-953b15da3cdd))
     (instances
-      (project "gear60"
+      (project "gear60_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "D29") (unit 1)
         )
@@ -8549,7 +8859,7 @@
     (pin "1" (uuid 798185bd-241e-480b-a6cd-366450b4215e))
     (pin "2" (uuid 487b3fab-9b05-46da-a8da-8c9b110a5e1a))
     (instances
-      (project "gear60"
+      (project "gear60_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "R5") (unit 1)
         )
@@ -8575,7 +8885,7 @@
     (pin "1" (uuid d5320c89-c2eb-4fe2-befe-3feb8e06d90d))
     (pin "2" (uuid 29c82ec1-71c5-429e-aac2-5b2c50851a6d))
     (instances
-      (project "gear60"
+      (project "gear60_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "MX5") (unit 1)
         )
@@ -8600,7 +8910,7 @@
     )
     (pin "1" (uuid c9d1ae56-cfcc-4cf1-abfc-e64613e213bb))
     (instances
-      (project "gear60"
+      (project "gear60_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "#PWR06") (unit 1)
         )
@@ -8626,7 +8936,7 @@
     (pin "1" (uuid 79c38b2f-103c-44fc-9ff2-f7504ca6ce75))
     (pin "2" (uuid 3bc0b306-0d3c-4a57-91a7-65faa9402ceb))
     (instances
-      (project "gear60"
+      (project "gear60_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "MX58") (unit 1)
         )
@@ -8651,7 +8961,7 @@
     )
     (pin "1" (uuid b7507ddd-6c7c-40a3-bf07-63e130c0bc9c))
     (instances
-      (project "gear60"
+      (project "gear60_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "#PWR022") (unit 1)
         )
@@ -8677,7 +8987,7 @@
     (pin "1" (uuid bcf4a2fa-2d16-4189-83e7-05d8e7f9f24d))
     (pin "2" (uuid cdc35229-1ded-4515-a45a-34026fe061c9))
     (instances
-      (project "gear60"
+      (project "gear60_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "C16") (unit 1)
         )
@@ -8709,7 +9019,7 @@
     (pin "1" (uuid faa64b7e-82e6-4bc5-b6da-bf36ca7df7e2))
     (pin "2" (uuid 63786cfb-ca70-4b5c-8022-22dd9ab46ccf))
     (instances
-      (project "gear60"
+      (project "gear60_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "D14") (unit 1)
         )
@@ -8735,7 +9045,7 @@
     (pin "1" (uuid 5cce4744-405a-422e-88c2-b9d1d0d47c10))
     (pin "2" (uuid a156f0cc-8bbc-451d-9eb8-4eeb3c0af6fa))
     (instances
-      (project "gear60"
+      (project "gear60_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "C7") (unit 1)
         )
@@ -8767,7 +9077,7 @@
     (pin "1" (uuid 869b438b-cb71-4f2f-9347-4a417154012c))
     (pin "2" (uuid 4cf183dc-a958-46a3-82c8-076d1a0c21c7))
     (instances
-      (project "gear60"
+      (project "gear60_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "D13") (unit 1)
         )
@@ -8799,7 +9109,7 @@
     (pin "1" (uuid 1f531e01-9e76-4e0c-b46f-2bc548559cbd))
     (pin "2" (uuid c9e09eaf-19af-4240-acd6-e69150065aa0))
     (instances
-      (project "gear60"
+      (project "gear60_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "D10") (unit 1)
         )
@@ -8825,7 +9135,7 @@
     (pin "1" (uuid 475aacdf-caea-4c52-895c-0d1ee8a6eb67))
     (pin "2" (uuid 4963cd60-5373-4e97-b644-2a5c58153c1c))
     (instances
-      (project "gear60"
+      (project "gear60_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "RESET1") (unit 1)
         )
@@ -8862,7 +9172,7 @@
     (pin "1" (uuid 180b4bf9-5f92-4e1c-bee5-6dfe0fa6b4e9))
     (pin "2" (uuid 6cf2ddfc-676d-4938-ac06-1fcd5b426b42))
     (instances
-      (project "gear60"
+      (project "gear60_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "D21") (unit 1)
         )
@@ -8894,7 +9204,7 @@
     (pin "1" (uuid 95f7f93b-50d8-4da4-9581-2bc3d550cf87))
     (pin "2" (uuid 650f1b1f-e9aa-45e8-bf9c-f6eceed98db9))
     (instances
-      (project "gear60"
+      (project "gear60_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "D50") (unit 1)
         )
@@ -8920,9 +9230,33 @@
     (pin "1" (uuid 3a52d266-cba6-4e98-b52c-09179cecf85d))
     (pin "2" (uuid 503981ff-6a7c-4a84-863c-b310773392cb))
     (instances
-      (project "gear60"
+      (project "gear60_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "C10") (unit 1)
+        )
+      )
+    )
+  )
+
+  (symbol (lib_id "PCM_marbastlib-mx:MX_stab") (at 335.28 146.05 0) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (uuid b7150575-fcfe-452e-848c-274b6cfe3421)
+    (property "Reference" "S8" (at 341.63 144.653 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Value" "stb" (at 341.63 147.193 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Footprint" "PCM_marbastlib-mx:STAB_MX_P_6.25u" (at 335.28 146.05 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "" (at 335.28 146.05 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (instances
+      (project "gear60_solder"
+        (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
+          (reference "S8") (unit 1)
         )
       )
     )
@@ -8952,7 +9286,7 @@
     (pin "1" (uuid f428e207-f412-40c8-afcd-45ba5f7965fb))
     (pin "2" (uuid 05bc038d-e2ea-4102-99cb-ca9a746d6acb))
     (instances
-      (project "gear60"
+      (project "gear60_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "D5") (unit 1)
         )
@@ -8978,7 +9312,7 @@
     (pin "1" (uuid c75ad33d-f453-492f-abc3-16bca25d9148))
     (pin "2" (uuid be48728e-1f45-4b6e-bbc4-29b1c0f7ae1f))
     (instances
-      (project "gear60"
+      (project "gear60_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "MX23") (unit 1)
         )
@@ -9004,7 +9338,7 @@
     (pin "1" (uuid d7fe8d0f-2a62-454b-ad33-9538d91924c1))
     (pin "2" (uuid 1bc8c37f-0190-4553-a318-ad8ab3167410))
     (instances
-      (project "gear60"
+      (project "gear60_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "R8") (unit 1)
         )
@@ -9030,7 +9364,7 @@
     (pin "1" (uuid 37fbf959-63ba-4316-ae81-5984d8c34736))
     (pin "2" (uuid 43438da3-7315-4c45-9d36-4fce69f686d7))
     (instances
-      (project "gear60"
+      (project "gear60_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "MX49") (unit 1)
         )
@@ -9062,7 +9396,7 @@
     (pin "1" (uuid 02bc9161-c0b1-4d91-ad82-ad6ab23a37c3))
     (pin "2" (uuid 63d927d9-8531-4886-9757-7254985e6c51))
     (instances
-      (project "gear60"
+      (project "gear60_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "D41") (unit 1)
         )
@@ -9088,7 +9422,7 @@
     (pin "1" (uuid 4c785907-6382-410d-9e2e-230f6d42c4f4))
     (pin "2" (uuid 74c8ea68-9b9e-4dfe-b8e1-91cf8ef40594))
     (instances
-      (project "gear60"
+      (project "gear60_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "MX26") (unit 1)
         )
@@ -9114,7 +9448,7 @@
     (pin "1" (uuid 4ef6c026-ca48-4396-9d1d-3005aa26c2ad))
     (pin "2" (uuid 313c059a-3065-46bc-9c7e-f9812f3f0efe))
     (instances
-      (project "gear60"
+      (project "gear60_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "MX41") (unit 1)
         )
@@ -9123,12 +9457,12 @@
   )
 
   (symbol (lib_id "PCM_marbastlib-mx:MX_SW_HS") (at 449.58 139.7 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom yes) (on_board yes) (dnp no)
     (uuid bd3e614c-124e-4ffa-960f-c50c08909aa3)
-    (property "Reference" "MX72" (at 449.58 132.08 0)
+    (property "Reference" "MX72" (at 455.93 130.81 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "MX_SW_solder" (at 449.58 134.62 0)
+    (property "Value" "MX_SW_solder" (at 457.2 133.35 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "PCM_marbastlib-mx:SW_MX_1u" (at 449.58 139.7 0)
@@ -9140,7 +9474,7 @@
     (pin "1" (uuid 23ceed85-a2eb-410a-b168-c0ab779df0d8))
     (pin "2" (uuid 4fca2012-5666-47d3-b700-c8963b6e9019))
     (instances
-      (project "gear60"
+      (project "gear60_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "MX72") (unit 1)
         )
@@ -9166,7 +9500,7 @@
     (pin "1" (uuid 026c3e43-e972-4900-a7b6-dcb4dbc73236))
     (pin "2" (uuid 37aa5ebf-9d9d-4746-9f0b-37707070b145))
     (instances
-      (project "gear60"
+      (project "gear60_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "MX54") (unit 1)
         )
@@ -9192,7 +9526,7 @@
     (pin "1" (uuid a38dc765-e04b-43c5-85eb-aaeabc77e5de))
     (pin "2" (uuid 79f3336a-5172-4380-bfec-9db562f7e61b))
     (instances
-      (project "gear60"
+      (project "gear60_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "MX7") (unit 1)
         )
@@ -9218,7 +9552,7 @@
     (pin "1" (uuid 6a0b7278-2d1d-45a6-b7a9-3b910bc30834))
     (pin "2" (uuid 458d05ff-3436-47c8-a49e-87cf797a6320))
     (instances
-      (project "gear60"
+      (project "gear60_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "MX42") (unit 1)
         )
@@ -9242,7 +9576,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (instances
-      (project "gear60"
+      (project "gear60_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "S1") (unit 1)
         )
@@ -9274,7 +9608,7 @@
     (pin "1" (uuid 36fece50-f35f-422e-8e21-86cfb025dfeb))
     (pin "2" (uuid 4c4dacbd-5b0b-4ead-89e9-ca4def1f8d38))
     (instances
-      (project "gear60"
+      (project "gear60_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "D37") (unit 1)
         )
@@ -9299,7 +9633,7 @@
     )
     (pin "1" (uuid 06e8a57c-3e61-4277-bfa4-bbf64492d989))
     (instances
-      (project "gear60"
+      (project "gear60_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "#PWR028") (unit 1)
         )
@@ -9331,7 +9665,7 @@
     (pin "1" (uuid 43349a1b-950f-487b-89ac-6e9b9f4e0453))
     (pin "2" (uuid dcd44a0b-8b1d-4046-8e30-a4856855af1b))
     (instances
-      (project "gear60"
+      (project "gear60_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "D56") (unit 1)
         )
@@ -9357,7 +9691,7 @@
     (pin "1" (uuid 7dd89efe-35e4-480a-b136-28a6eec989c7))
     (pin "2" (uuid 08a7055a-7e74-41dc-bc7e-97f7df238a11))
     (instances
-      (project "gear60"
+      (project "gear60_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "R7") (unit 1)
         )
@@ -9389,7 +9723,7 @@
     (pin "1" (uuid 38b329ab-5230-4cd7-b684-4d2f42ad70b4))
     (pin "2" (uuid c30aca21-02ab-4e0c-a652-314eca2e2613))
     (instances
-      (project "gear60"
+      (project "gear60_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "D33") (unit 1)
         )
@@ -9415,7 +9749,7 @@
     (pin "1" (uuid ea3e422d-cb92-45e8-ac68-f84923e35b61))
     (pin "2" (uuid 0e9faf32-401a-44ea-bbbb-902a8490b744))
     (instances
-      (project "gear60"
+      (project "gear60_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "BOOT1") (unit 1)
         )
@@ -9444,7 +9778,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (instances
-      (project "gear60"
+      (project "gear60_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "S2") (unit 1)
         )
@@ -9470,7 +9804,7 @@
     (pin "1" (uuid 5baf1788-f59b-4ed9-a143-b63a4c6c75ee))
     (pin "2" (uuid 5e8bdd1d-7060-4c00-adf9-dbb1b9ede0ed))
     (instances
-      (project "gear60"
+      (project "gear60_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "MX44") (unit 1)
         )
@@ -9496,7 +9830,7 @@
     (pin "1" (uuid 188a5e7d-6d93-4409-ac21-988cf38a7332))
     (pin "2" (uuid 5006926b-39a5-40b9-ac9c-776a036362d7))
     (instances
-      (project "gear60"
+      (project "gear60_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "MX68") (unit 1)
         )
@@ -9521,7 +9855,7 @@
     )
     (pin "1" (uuid 537fc491-fd1e-4829-aa3a-ad7fce6dea9d))
     (instances
-      (project "gear60"
+      (project "gear60_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "#PWR05") (unit 1)
         )
@@ -9553,7 +9887,7 @@
     (pin "1" (uuid d21e2158-c4d9-4fdb-956c-d6445db7f59c))
     (pin "2" (uuid e7dddb9c-a0ac-471f-80fb-9fbd09d118e1))
     (instances
-      (project "gear60"
+      (project "gear60_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "D70") (unit 1)
         )
@@ -9578,7 +9912,7 @@
     )
     (pin "1" (uuid a44924d8-0bbd-4ed4-b05b-60dddaa896de))
     (instances
-      (project "gear60"
+      (project "gear60_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "#PWR021") (unit 1)
         )
@@ -9604,7 +9938,7 @@
     (pin "1" (uuid 3d0c4412-2adf-4464-b3e0-6acc77358996))
     (pin "2" (uuid 4160e1f0-a28d-447b-ba6e-599e4865f6e3))
     (instances
-      (project "gear60"
+      (project "gear60_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "R2") (unit 1)
         )
@@ -9630,7 +9964,7 @@
     (pin "1" (uuid 1c4ca52c-0516-4cdc-b88d-4fda6d598c86))
     (pin "2" (uuid d675157a-e5cc-40fc-aa10-db87953c9108))
     (instances
-      (project "gear60"
+      (project "gear60_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "MX12") (unit 1)
         )
@@ -9656,7 +9990,7 @@
     (pin "1" (uuid e1bdc5b3-de7d-4e0f-b51c-a64fd0786480))
     (pin "2" (uuid 169058dd-a5bc-4432-8a81-dbbd81f77e38))
     (instances
-      (project "gear60"
+      (project "gear60_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "MX33") (unit 1)
         )
@@ -9688,7 +10022,7 @@
     (pin "1" (uuid 2bd7c005-f55e-4625-82cb-8b55083881d7))
     (pin "2" (uuid 3363ee6d-e8fc-4ef6-8064-3343649c71ff))
     (instances
-      (project "gear60"
+      (project "gear60_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "D53") (unit 1)
         )
@@ -9720,7 +10054,7 @@
     (pin "1" (uuid f317ec2e-eab3-4627-b131-b74e2bc94d20))
     (pin "2" (uuid e3fcf601-3db5-43cf-8add-2198d03e7774))
     (instances
-      (project "gear60"
+      (project "gear60_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "D61") (unit 1)
         )
@@ -9745,7 +10079,7 @@
     )
     (pin "1" (uuid 0f974b9c-8814-4173-bf1f-b5161273000a))
     (instances
-      (project "gear60"
+      (project "gear60_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "#PWR03") (unit 1)
         )
@@ -9771,7 +10105,7 @@
     (pin "1" (uuid 9f7aacd7-8af0-4158-b8b8-eb47e6d9199f))
     (pin "2" (uuid 5801306a-9c9c-4628-ab97-182b83f79979))
     (instances
-      (project "gear60"
+      (project "gear60_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "C2") (unit 1)
         )
@@ -9782,10 +10116,10 @@
   (symbol (lib_id "PCM_marbastlib-mx:MX_SW_HS") (at 242.57 139.7 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid e51330a0-8e86-4f12-86ff-e924908aa1f3)
-    (property "Reference" "MX63" (at 234.95 132.08 0)
+    (property "Reference" "MX63" (at 233.68 132.08 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "MX_SW_solder" (at 238.76 134.62 0)
+    (property "Value" "MX_SW_solder" (at 237.49 134.62 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "PCM_marbastlib-mx:SW_MX_1u" (at 242.57 139.7 0)
@@ -9797,7 +10131,7 @@
     (pin "1" (uuid bcf216b4-a607-4857-a24f-f3e9b9689415))
     (pin "2" (uuid 92d34286-e561-4630-bf25-112c432fd3eb))
     (instances
-      (project "gear60"
+      (project "gear60_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "MX63") (unit 1)
         )
@@ -9829,7 +10163,7 @@
     (pin "1" (uuid 2bd936df-9dfc-4c83-a6ce-af6f919ea1ee))
     (pin "2" (uuid 71f6dad9-b4cc-4759-8384-240c0e1e14a1))
     (instances
-      (project "gear60"
+      (project "gear60_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "D59") (unit 1)
         )
@@ -9855,7 +10189,7 @@
     (pin "1" (uuid d4a1b67c-ce27-4f96-a974-b3dd8b42382e))
     (pin "2" (uuid 1822c12b-40e0-4558-b9f8-d37b2ad4d919))
     (instances
-      (project "gear60"
+      (project "gear60_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "MX17") (unit 1)
         )
@@ -9880,7 +10214,7 @@
     )
     (pin "1" (uuid 0a42543d-534f-4800-bdd8-7e7115f7c23a))
     (instances
-      (project "gear60"
+      (project "gear60_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "#PWR04") (unit 1)
         )
@@ -9912,7 +10246,7 @@
     (pin "1" (uuid d3482d97-58de-4c95-8762-603f579b6d2d))
     (pin "2" (uuid 7daf6354-d454-4cbd-8b3e-9144d2f55691))
     (instances
-      (project "gear60"
+      (project "gear60_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "D2") (unit 1)
         )
@@ -9938,9 +10272,33 @@
     (pin "1" (uuid c259013e-8c2e-4fdb-8f76-6974c8466778))
     (pin "2" (uuid 1cc01934-a3de-4c3c-b83b-61ede72f7495))
     (instances
-      (project "gear60"
+      (project "gear60_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "MX78") (unit 1)
+        )
+      )
+    )
+  )
+
+  (symbol (lib_id "PCM_marbastlib-mx:MX_stab") (at 464.82 91.44 0) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (uuid f1fe509d-abe6-434f-a40f-bf3cba43a1dc)
+    (property "Reference" "S9" (at 471.17 90.043 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Value" "stb" (at 471.17 92.583 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Footprint" "PCM_marbastlib-mx:STAB_MX_ISO" (at 464.82 91.44 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "" (at 464.82 91.44 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (instances
+      (project "gear60_solder"
+        (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
+          (reference "S9") (unit 1)
         )
       )
     )
@@ -9970,7 +10328,7 @@
     (pin "1" (uuid e3e854fe-7cd8-4d3b-8dcd-55c54f62b213))
     (pin "2" (uuid 7849e184-4177-4603-8065-9a3fd496cd75))
     (instances
-      (project "gear60"
+      (project "gear60_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "D23") (unit 1)
         )
@@ -10011,9 +10369,35 @@
     (pin "B9" (uuid 5cc668bc-490b-4659-bb31-0ba893314282))
     (pin "S1" (uuid b4f1609c-79e8-4f97-a13f-9b7dd83d0613))
     (instances
-      (project "gear60"
+      (project "gear60_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "J1") (unit 1)
+        )
+      )
+    )
+  )
+
+  (symbol (lib_id "PCM_marbastlib-mx:MX_SW_HS") (at 251.46 139.7 180) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no)
+    (uuid f5c3b31b-8402-41f1-916a-5a86420d3719)
+    (property "Reference" "MX81" (at 255.27 133.35 0)
+      (effects (font (size 1.27 1.27)))
+    )
+    (property "Value" "MX_SW_solder" (at 245.11 133.35 0)
+      (effects (font (size 1.27 1.27)))
+    )
+    (property "Footprint" "PCM_marbastlib-mx:SW_MX_1.25u" (at 251.46 139.7 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "~" (at 251.46 139.7 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 94d4cf61-a61e-466b-b2d9-381463563d23))
+    (pin "2" (uuid e391d169-3ba7-4d62-8cbf-38307faeef6f))
+    (instances
+      (project "gear60_solder"
+        (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
+          (reference "MX81") (unit 1)
         )
       )
     )
@@ -10037,7 +10421,7 @@
     (pin "1" (uuid 4b247a3d-7447-4eab-8bec-e364a52520eb))
     (pin "2" (uuid 7f7aa4de-f885-4570-8370-1d7d8bcbfd09))
     (instances
-      (project "gear60"
+      (project "gear60_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "MX50") (unit 1)
         )
@@ -10063,7 +10447,7 @@
     (pin "1" (uuid 90347a24-3a04-4192-a143-7ca3e3960553))
     (pin "2" (uuid 33db22dc-ab62-45e2-8123-c34db2417a0c))
     (instances
-      (project "gear60"
+      (project "gear60_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "MX62") (unit 1)
         )
@@ -10088,7 +10472,7 @@
     )
     (pin "1" (uuid 00beb5b4-56ad-4180-b041-e9b96bdf551c))
     (instances
-      (project "gear60"
+      (project "gear60_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "#PWR011") (unit 1)
         )
@@ -10120,7 +10504,7 @@
     (pin "1" (uuid 4a5c0e6e-3c92-4969-a95a-4280b16e15e2))
     (pin "2" (uuid f7f2a414-1d94-46d6-8e22-df86b0557931))
     (instances
-      (project "gear60"
+      (project "gear60_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "D12") (unit 1)
         )
@@ -10152,7 +10536,7 @@
     (pin "1" (uuid f4fea70a-ef97-4f9e-8266-5b8839da9e6e))
     (pin "2" (uuid 7bd0a323-d173-49f6-9627-4539800e4127))
     (instances
-      (project "gear60"
+      (project "gear60_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "D52") (unit 1)
         )
@@ -10178,7 +10562,7 @@
     (pin "1" (uuid ce7c825e-fc10-4107-b9bc-aa4a833c5b34))
     (pin "2" (uuid cca683bd-cb81-4dcb-a953-425e5d6191b3))
     (instances
-      (project "gear60"
+      (project "gear60_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "MX30") (unit 1)
         )
@@ -10210,7 +10594,7 @@
     (pin "1" (uuid 8b98ac4c-220b-4b84-8ddd-6995c22739fb))
     (pin "2" (uuid e11848c8-75b9-477d-b012-718d7ef89fbc))
     (instances
-      (project "gear60"
+      (project "gear60_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "D63") (unit 1)
         )
@@ -10291,7 +10675,7 @@
     (pin "8" (uuid 3442e36b-ce60-4408-9de3-ae2c5b80611d))
     (pin "9" (uuid 78dec7ef-93c1-4dc3-a167-bf3df16d7780))
     (instances
-      (project "gear60"
+      (project "gear60_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "U4") (unit 1)
         )
@@ -10300,12 +10684,12 @@
   )
 
   (symbol (lib_id "PCM_marbastlib-mx:MX_SW_HS") (at 389.89 139.7 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom yes) (on_board yes) (dnp no)
     (uuid fe5f971b-f41f-4217-a0f4-568967b3298c)
-    (property "Reference" "MX69" (at 389.89 132.08 0)
+    (property "Reference" "MX69" (at 396.24 133.35 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "MX_SW_solder" (at 389.89 134.62 0)
+    (property "Value" "MX_SW_solder" (at 394.97 135.89 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "PCM_marbastlib-mx:SW_MX_1u" (at 389.89 139.7 0)
@@ -10317,7 +10701,7 @@
     (pin "1" (uuid 925fd055-28cb-4586-a748-5e69c6a262df))
     (pin "2" (uuid 6870698c-d9ec-47c8-bd38-5287f262efb3))
     (instances
-      (project "gear60"
+      (project "gear60_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "MX69") (unit 1)
         )
@@ -10349,7 +10733,7 @@
     (pin "1" (uuid 334bd66b-91d9-4a98-959d-c76526e3defb))
     (pin "2" (uuid 7a56c365-3e99-4bce-8dcd-d920181bbdb4))
     (instances
-      (project "gear60"
+      (project "gear60_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "D40") (unit 1)
         )
