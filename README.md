@@ -3,6 +3,10 @@
 
 # Gear60<br/>
 The Gear60 is a 60% multi-layout keyboard based on the rp2040.
+<br/>
+
+It's mostly compatible with 60% layout keyboards. Just modify usb and plate to suit your keyboard housing
+
 <br/><br/>
 
 
