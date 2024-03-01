@@ -63,8 +63,9 @@ There is also a [keyboard plate](https://github.com/cosmosalad/Gear60/tree/main/
 There is a change from the initial pcb design.<br/>
 This pcb was made by jlcpcb. ([list of pcb parts](https://github.com/cosmosalad/Gear60/blob/main/pcb/hotswap/jlcpcb/part%20list.png))<br/><br/>
 This pcb prepared the [vial](https://github.com/cosmosalad/Gear60/tree/main/vial) as firmware<br/><br/>
-[프로젝트 과정(kr)](https://blog.naver.com/cosmosalad/223262540878)<br/><br/>
-<br/>
+
+
+[프로젝트 과정(kr)](https://blog.naver.com/cosmosalad/223262540878)<br/>
 
 <p align="center">
   <a href="https://youtube.com/embed/gBcXavTLRE8">
