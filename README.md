@@ -1,4 +1,4 @@
-
+[프로젝트 과정(kr)](https://blog.naver.com/cosmosalad/223262540878)<br/><br/>
 
 
 # Gear60<br/>
@@ -65,7 +65,7 @@ This pcb was made by jlcpcb. ([list of pcb parts](https://github.com/cosmosalad/
 This pcb prepared the [vial](https://github.com/cosmosalad/Gear60/tree/main/vial) as firmware<br/><br/>
 
 
-[프로젝트 과정(kr)](https://blog.naver.com/cosmosalad/223262540878)<br/>
+
 
 <p align="center">
   <a href="https://youtube.com/embed/gBcXavTLRE8">
