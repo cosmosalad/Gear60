@@ -1,7 +1,7 @@
 Hold the boot button and connect usb.<br/>
 
 ![usb](https://github.com/cosmosalad/Gear60/assets/45204109/1f371951-c98e-43f4-af8d-9e860d621abd)<br/>
-After connecting to the keyboard, add the [uf2 file](https://github.com/cosmosalad/Gear60/blob/main/vial/gear60_vial.uf2).<br/><br/><br/>
+After connecting to the keyboard, add the [uf2 file]https://github.com/cosmosalad/Gear60/tree/main/vial).<br/><br/><br/>
 
 
 Open the [vial](https://vial.rocks/).<br/>
