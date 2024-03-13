@@ -1,1 +1,1 @@
-![plate](https://github.com/cosmosalad/Gear60/assets/45204109/8b7c9b36-d260-4d7b-9d28-f290d28353d5)
+![plate](https://github.com/cosmosalad/Gear60/assets/45204109/b1067761-3d0f-4852-a954-9a0de65c470d)
