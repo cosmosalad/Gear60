@@ -42,7 +42,8 @@ hhkb - B type (sla print)
 ## Layout<br/>
 
 - solder<br/>
-![solder pab](https://github.com/cosmosalad/Gear60/assets/45204109/7981f1b3-0ad1-4688-bbac-9cfd38d59700)<br/>
+![solder pab](https://github.com/cosmosalad/Gear60/assets/45204109/c3aa05ca-fe8a-4c8a-a291-2d3ab7d4a90c)
+<br/>
 <br/>
 
 - hotswap<br/>
