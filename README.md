@@ -42,13 +42,12 @@ hhkb - B type (sla print)
 ## Layout<br/>
 
 - solder<br/>
-![solder pab](https://github.com/cosmosalad/Gear60/assets/45204109/c3aa05ca-fe8a-4c8a-a291-2d3ab7d4a90c)
-<br/>
-<br/>
+![solder pcb](https://github.com/cosmosalad/Gear60/assets/45204109/5dd2d22a-4d9b-4912-a424-3d1e06d655c2)
+<br/><br/>
 
 - hotswap<br/>
-![layout](https://github.com/cosmosalad/Gear60/assets/45204109/42bbedae-a8ee-4b03-a299-7eabaf489846)<br/>
-<br/>
+![layout](https://github.com/cosmosalad/Gear60/assets/45204109/42bbedae-a8ee-4b03-a299-7eabaf489846)
+<br/><br/>
 
 There is also a [keyboard plate](https://github.com/cosmosalad/Gear60/tree/main/plate).<br/>
 [Keyboard case](https://github.com/cosmosalad/Gear60/tree/main/case) corresponding to this layout.<br/>
