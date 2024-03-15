@@ -31,5 +31,9 @@
 
 ### gear60_bottom<br/>
 ![gear60_bottom](https://github.com/cosmosalad/Gear60/assets/45204109/9bac3770-bd0c-4826-aab4-8c009893e016)
+<br/><br/><br/><br/><br/>
 
+
+### gear60_rp2040zero<br/>
+![top_rp2040zero](https://github.com/cosmosalad/Gear60/assets/45204109/fd71e0b5-9b29-4bf9-a59d-1e83c01fb67a)
 
