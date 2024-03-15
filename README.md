@@ -42,11 +42,11 @@ hhkb - B type (sla print)
 ## Layout<br/>
 
 - solder<br/>
-![solder pcb](https://github.com/cosmosalad/Gear60/assets/45204109/5dd2d22a-4d9b-4912-a424-3d1e06d655c2)
+![solder pcb](https://github.com/cosmosalad/Gear60/blob/main/img/solder%20pcb.png)
 <br/><br/>
 
 - hotswap<br/>
-![layout](https://github.com/cosmosalad/Gear60/assets/45204109/42bbedae-a8ee-4b03-a299-7eabaf489846)
+![hotswap pcb](https://github.com/cosmosalad/Gear60/blob/main/img/hotswap%20pcb.png)
 <br/><br/>
 
 There is also a [keyboard plate](https://github.com/cosmosalad/Gear60/tree/main/plate).<br/>
@@ -56,10 +56,10 @@ There is also a [keyboard plate](https://github.com/cosmosalad/Gear60/tree/main/
 
 
 ## PCB<br/>
-![pcb_top1](https://github.com/cosmosalad/Gear60/assets/45204109/ababf6b0-ff0b-4079-822c-5c73df947780)<br/>
-![pcb_bottom1](https://github.com/cosmosalad/Gear60/assets/45204109/c930ecc1-0982-4478-b921-21c78720b0be)<br/><br/><br/>
+![pcb_top_hotswap](https://github.com/cosmosalad/Gear60/blob/main/img/pcb_top_hotswap.png)<br/>
+![pcb_bottom_hotswap](https://github.com/cosmosalad/Gear60/blob/main/img/pcb_bottom_hotswap.png)<br/><br/><br/>
 
-![sample](https://github.com/cosmosalad/Gear60/assets/45204109/f2a96a30-09d3-4a4a-b490-d96202257811)<br/>
+![hotswap_pcb_sample](https://github.com/cosmosalad/Gear60/blob/main/img/hotswap_pcb_sample.jpg)<br/>
 There is a change from the initial pcb design. [More pcb](https://github.com/cosmosalad/Gear60/tree/main/pcb)<br/><br/>
 This pcb was made by jlcpcb.([list of pcb parts](https://github.com/cosmosalad/Gear60/blob/main/pcb/hotswap/part%20list.md))<br/><br/>
 This pcb prepared the [vial](https://github.com/cosmosalad/Gear60/tree/main/vial) as firmware<br/><br/>
