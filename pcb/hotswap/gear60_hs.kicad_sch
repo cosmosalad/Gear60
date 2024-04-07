@@ -8030,32 +8030,6 @@
     )
   )
 
-  (symbol (lib_id "Device:C_Small") (at 118.11 146.05 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
-    (uuid 9ef71490-30ac-463a-99f0-2991cc60ef2d)
-    (property "Reference" "C5" (at 120.65 144.7863 0)
-      (effects (font (size 1.27 1.27)) (justify left))
-    )
-    (property "Value" "10u" (at 120.65 147.3263 0)
-      (effects (font (size 1.27 1.27)) (justify left))
-    )
-    (property "Footprint" "Capacitor_SMD:C_0603_1608Metric" (at 118.11 146.05 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "~" (at 118.11 146.05 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (pin "1" (uuid 8a09cd64-4ccd-4c50-96a5-13ac5fd93eb1))
-    (pin "2" (uuid feadf09f-3728-4a02-aa55-0fa0f8e9331f))
-    (instances
-      (project "gear60_hs"
-        (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
-          (reference "C5") (unit 1)
-        )
-      )
-    )
-  )
-
   (symbol (lib_id "Connector_Generic:Conn_01x05") (at 135.89 243.84 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid a01b65ba-4dd4-40f4-822e-e006467cc4f2)
@@ -8731,6 +8705,32 @@
       (project "gear60_hs"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "C7") (unit 1)
+        )
+      )
+    )
+  )
+
+  (symbol (lib_id "Device:C_Small") (at 118.11 146.05 0) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (uuid b15ef784-7b72-4dba-a597-7057c5dea4e2)
+    (property "Reference" "C5" (at 120.65 144.7863 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Value" "100n" (at 120.65 147.3263 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Footprint" "Capacitor_SMD:C_0402_1005Metric" (at 118.11 146.05 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "~" (at 118.11 146.05 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid b76a1e31-4037-4e18-910d-76971bde171f))
+    (pin "2" (uuid 68089264-d5b3-419b-8c29-3c9b0fa691c8))
+    (instances
+      (project "gear60_hs"
+        (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
+          (reference "C5") (unit 1)
         )
       )
     )
